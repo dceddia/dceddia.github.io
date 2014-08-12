@@ -83,3 +83,23 @@ body {
     }
   }
 }
+
+.top-border-left {
+  background-color: #4C9BFF;
+  width: 26.8%;
+  height: 15px;
+  border: 0;
+  margin: 0;
+  display: inline-block;
+  float: left;
+}
+
+.top-border-right {
+  background-color: #E8820C;
+  height: 15px;
+  border: 0;
+  margin: 0;
+  display: inline-block;
+  width: 73.2%;
+  float: left;
+}
