@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[design_with_dave]]></title>
-  <link href="http://dceddia.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Design | design_with_dave]]></title>
+  <link href="http://dceddia.github.io/blog/categories/design/atom.xml" rel="self"/>
   <link href="http://dceddia.github.io/"/>
   <updated>2014-08-11T23:22:14-04:00</updated>
   <id>http://dceddia.github.io/</id>
