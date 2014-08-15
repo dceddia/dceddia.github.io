@@ -5,7 +5,7 @@ date: 2014-08-11 22:35:15 -0400
 comments: true
 categories: design
 keywords: design skills,better at design,suck less at design,improve design,design skills,web design
-description: Improve your design skills by practicing consistently and duplicating designs that you like.
+description: Improve your design skills by practicing consistently and recreating designs that you like.
 ---
 
 If you’re a software developer, like I am, you may have noticed how apps and websites have become more and more design-heavy over the years. Maybe you’ve thought to yourself, "I could do that!"" After all, you’ve got an eye for good design, right? You can tell the good from the bad. You know to avoid Comic Sans, and not to put solid red text on a solid green background, and that pretty colors and big fonts make everything look great.
