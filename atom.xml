@@ -4,7 +4,7 @@
   <title><![CDATA[design_with_dave]]></title>
   <link href="http://dceddia.github.io/atom.xml" rel="self"/>
   <link href="http://dceddia.github.io/"/>
-  <updated>2014-08-15T13:21:17-04:00</updated>
+  <updated>2014-08-19T23:43:30-04:00</updated>
   <id>http://dceddia.github.io/</id>
   <author>
     <name><![CDATA[Dave Ceddia]]></name>
@@ -12,6 +12,59 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Get Better at Page Layout]]></title>
+    <link href="http://dceddia.github.io/get-better-page-layout/"/>
+    <updated>2014-08-19T23:36:12-04:00</updated>
+    <id>http://dceddia.github.io/get-better-page-layout</id>
+    <content type="html"><![CDATA[<p>One thing that I always find difficult is how to lay out a new web page. Starting with a blank slate is intimidating, and it&rsquo;s tough to know what should go where. You&rsquo;ve got to worry about spacing and navigation and then you&rsquo;re thinking about the pretty header design and the footer and the fonts and the colors&hellip;</p>
+
+<p>Let&rsquo;s try to get better at designing pages by starting at a high level with a simple problem to solve.</p>
+
+<p>I want to start with a couple sites that I think are well-designed, or at least nice to look at. Following the idea that you should <a href="http://dceddia.github.io/improve-your-design-skills">duplicate before you innovate</a>, let&rsquo;s take a look at a few examples and break them down into simple blocks.</p>
+
+<p>Here&rsquo;s MailChimp&rsquo;s pricing page:</p>
+
+<p><img src="http://dceddia.github.io/images/posts/2014-08-14-layout-practice/mailchimp-pricing.png" title="'Mailchimp Pricing'" ></p>
+
+<p>Let&rsquo;s try drawing some rough boxes around the main visual elements here. I did this using the Preview app that&rsquo;s built into OS X &ndash; you can use something fancy like Photoshop if you want, but don&rsquo;t get hung up on tools at this point. I&rsquo;d do this on pen and paper if I could, just to spend more time on the goal of outlining elements rather than aligning pixels. I find, for me at least, using fancy tools makes it too easy to get hung up on little details when I should really be worrying about the big picture. Anyway, here&rsquo;s the MailChimp pricing page with some outlines:</p>
+
+<p><img src="http://dceddia.github.io/images/posts/2014-08-14-layout-practice/mailchimp-pricing-outlined.png" title="'Mailchimp Pricing Outlined'" ></p>
+
+<p>I made the large sections blue and the subsections orange.</p>
+
+<p>A couple things that popped out to me as I was drawing the boxes (hopefully you tried drawing the boxes yourself):</p>
+
+<ul>
+<li>The content inside each of the 3 columns is not centered. It&rsquo;s left-aligned. To my eye, this wasn&rsquo;t really obvious by just looking at the original page. Something about those &ldquo;Learn More&rdquo; buttons made me think they should be centered, but when I tried to center the first one in the outlining box, I realized it wasn&rsquo;t actually centered at all.</li>
+<li>There is a lot more space below the main header text than above it. That seems to have the effect of separating it from the images below so that your eyes process the 2 sections individually.</li>
+<li>The gray background behind the header text extends to about halfway down behind the images. This, along with the lighting in the pictures, gives them a 3D look and makes them pop out of the page.</li>
+<li>The menu items along the top (orange boxes) are <em>almost</em> evenly spaced out. Either that means that my boxes aren&rsquo;t evenly drawn (likely) or that some of them needed special treatment &ndash; the &ldquo;Blog&rdquo; link seems to be further spaced out than the rest of its neighbors.</li>
+</ul>
+
+
+<p>Ok, let&rsquo;s look at Google:</p>
+
+<p><img src="http://dceddia.github.io/images/posts/2014-08-14-layout-practice/google.png" title="'Google'" ></p>
+
+<p>This one is very simple and minimalist. There are a few different ways you could carve it up into boxes though. Like this one:</p>
+
+<p><img src="http://dceddia.github.io/images/posts/2014-08-14-layout-practice/google_v1.png" title="'Google Outlined, V1'" ></p>
+
+<p>Or this one, which I think gets the essence across a little better:</p>
+
+<p><img src="http://dceddia.github.io/images/posts/2014-08-14-layout-practice/google_v2.png" title="'Google Outlined, V2'" ></p>
+
+<p>The point here, if there is one, is that there isn&rsquo;t one right way to break a design into its outline pieces, but that it&rsquo;s a useful exercise to go through because it trains your eye to see the larger structures at work in a design.</p>
+
+<p>Your homework, then, is to go and find 5 of your favorite sites and perform this outlining on them. See if you can spot anything unexpected as you&rsquo;re doing it. Try to break a design into boxes in a few different ways to see if you like one over another.</p>
+
+<p>Maybe even go so far as to transfer your outlines to a real piece of paper &ndash; just draw the boxes, and see if the site is still recognizable. I&rsquo;d bet Google and Reddit would be fairly easy to recognize, even as a simple collection of boxes.</p>
+
+<p>I&rsquo;m hoping that a bit a practice at this will make it second-nature, and after a little while we&rsquo;ll be able to look at a site and mentally break it up into boxes. Which is a great first step in being able to create your own designs.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Improve Your Design Skills]]></title>
