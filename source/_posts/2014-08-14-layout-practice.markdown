@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Get Better At Page Layout"
-date: 2014-08-14 23:20:12 -0400
+date: 2014-08-19 23:36:12 -0400
 comments: true
 categories:
 keywords:
