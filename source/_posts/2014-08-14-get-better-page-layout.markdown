@@ -4,8 +4,8 @@ title: "Get Better At Page Layout"
 date: 2014-08-19 23:36:12 -0400
 comments: true
 categories:
-keywords:
-description:
+keywords: design,layout,page layout,layout practice,web page layout
+description: Break down existing web page designs to train your eye to see the big picture, then use that new skill on your own sites.
 published: true
 ---
 
