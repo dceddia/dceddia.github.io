@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://dceddia.github.io/carbon-copy-google-login-page/</loc>
+    <lastmod>2014-08-26T21:49:27-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://dceddia.github.io/get-better-page-layout/</loc>
     <lastmod>2014-08-19T23:36:12-04:00</lastmod>
     <priority>0.8</priority>
@@ -17,21 +23,21 @@
   
   <url>
     <loc>http://dceddia.github.io/blog/archives/</loc>
-    <lastmod>2014-08-20T22:43:32-04:00</lastmod>
+    <lastmod>2014-08-26T23:17:36-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://dceddia.github.io/</loc>
-    <lastmod>2014-08-20T22:43:32-04:00</lastmod>
+    <lastmod>2014-08-26T23:17:36-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://dceddia.github.io/about/</loc>
-    <lastmod>2014-08-20T22:43:32-04:00</lastmod>
+    <lastmod>2014-08-26T23:17:36-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
