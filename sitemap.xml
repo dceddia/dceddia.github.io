@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://dceddia.github.io/tiny-page-layouts/</loc>
+    <lastmod>2014-09-02T21:17:17-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://dceddia.github.io/carbon-copy-google-login-page/</loc>
     <lastmod>2014-08-26T21:49:27-04:00</lastmod>
     <priority>0.8</priority>
@@ -23,35 +29,35 @@
   
   <url>
     <loc>http://dceddia.github.io/blog/archives/</loc>
-    <lastmod>2014-08-27T22:45:39-04:00</lastmod>
+    <lastmod>2014-09-02T22:10:41-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://dceddia.github.io/</loc>
-    <lastmod>2014-08-27T22:45:39-04:00</lastmod>
+    <lastmod>2014-09-02T22:10:41-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://dceddia.github.io/thanks-for-signup/</loc>
-    <lastmod>2014-08-27T22:45:39-04:00</lastmod>
+    <lastmod>2014-09-02T22:10:41-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://dceddia.github.io/about/</loc>
-    <lastmod>2014-08-27T22:45:39-04:00</lastmod>
+    <lastmod>2014-09-02T22:10:41-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://dceddia.github.io/almost-signed-up/</loc>
-    <lastmod>2014-08-27T22:45:39-04:00</lastmod>
+    <lastmod>2014-09-02T22:10:41-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
