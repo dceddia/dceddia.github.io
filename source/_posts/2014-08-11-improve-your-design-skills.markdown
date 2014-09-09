@@ -8,7 +8,7 @@ keywords: design skills,better at design,suck less at design,improve design,desi
 description: Improve your design skills by practicing consistently and recreating designs that you like.
 ---
 
-If you’re a software developer, like I am, you may have noticed how apps and websites have become more and more design-heavy over the years. Maybe you’ve thought to yourself, "I could do that!"" After all, you’ve got an eye for good design, right? You can tell the good from the bad. You know to avoid Comic Sans, and not to put solid red text on a solid green background, and that pretty colors and big fonts make everything look great.
+If you’re a software developer, like I am, you may have noticed how apps and websites have become more and more design-heavy over the years. Maybe you’ve thought to yourself, "I could do that!" After all, you’ve got an eye for good design, right? You can tell the good from the bad. You know to avoid Comic Sans, and not to put solid red text on a solid green background, and that pretty colors and big fonts make everything look great.
 
 Maybe you’ve even tried your hand at imitating the designs you see. It’s hard, though, isn’t it? Your own work never comes out looking as good as something produced by a "real" designer, and you become disheartened by how difficult it is. You go back to writing code. You’re good at that. It’s what you get paid for. But despite that, there’s still a feeling inside that you could be a designer. You just need to learn.
 
