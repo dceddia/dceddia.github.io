@@ -47,11 +47,27 @@ article {
     @extend .basic-alignment;
     @include shadow-box;
   }
-  img {
+  img, .caption-wrapper {
     @extend .flex-content;
     @extend .basic-alignment;
+    &.caption {
+      @include reset-shadow-box;
+    }
   }
-  img.bordered {
+
+  .caption-wrapper {
+    display: inline-block;
+    margin-bottom: 10px;
+    background: #fff;
+    .caption-text {
+      text-align: center;
+      font-size: .8em;
+      color: #666;
+      display: block;
+    }
+  }
+
+  img.bordered, .caption-wrapper {
     @include shadow-box;
   }
   video, .flash-video { margin: 0 auto 1.5em; }
