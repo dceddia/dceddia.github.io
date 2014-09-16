@@ -2,3 +2,18 @@
 // Add styles here to make changes without digging in too much
 
 @import "signup_form";
+
+// For the Font post (2014-09-11-how-to-choose-a-great-font)
+.font-example {
+  font-size: 2em;
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+.font-example.sm {
+  font-size: 1em;
+}
+
+.font-example.med {
+  font-size: 1.5em;
+}
