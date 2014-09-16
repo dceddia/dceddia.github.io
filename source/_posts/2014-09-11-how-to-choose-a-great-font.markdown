@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Choose a Great Font"
-date: 2014-09-11 00:02:34 -0400
+date: 2014-09-15 10:45:34 -0400
 comments: true
 categories:
 keywords: fonts,typography,pick font,choose font,best font
