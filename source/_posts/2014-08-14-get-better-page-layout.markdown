@@ -6,7 +6,6 @@ comments: true
 categories:
 keywords: design,layout,page layout,layout practice,web page layout
 description: Break down existing web page designs to train your eye to see the big picture, then use that new skill on your own sites.
-published: true
 ---
 
 One thing that I always find difficult is how to lay out a new web page. Starting with a blank slate is intimidating, and it's tough to know what should go where. You've got to worry about spacing and navigation and then you're thinking about the pretty header design and the footer and the fonts and the colors...

@@ -17,3 +17,33 @@
 .font-example.med {
   font-size: 1.5em;
 }
+
+.get-guide-button,
+.get-guide-button:hover,
+.get-guide-button:visited {
+  background-color: #5DA423;
+  border: 1px solid #396516;
+  width: 240px;
+  border: 1px solid #1E728C;
+  -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+  -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+  color: white;
+  cursor: pointer;
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1;
+  margin: 0 auto;
+  margin-top: 20px;
+  outline: none;
+  padding: 10px 20px 11px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  -webkit-transition: background-color 0.15s ease-in-out;
+  -moz-transition: background-color 0.15s ease-in-out;
+  -o-transition: background-color 0.15s ease-in-out;
+  transition: background-color 0.15s ease-in-out;
+  font-family: Helvetica, sans-serif;
+}

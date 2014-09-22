@@ -9,11 +9,13 @@ description: Design skills perfectly complement web development skills. Here are
 published: false
 ---
 
+<img src="/images/posts/2014-09-19-developers-need-to-learn-design/Lego_Color_Bricks.jpg" alt="Lego Bricks"/>
+
 You might see the term "unicorn" thrown around from time to time. It refers to a mystical creature -- that is, the perfect combo of developer <em>and</em> designer together in one package. As the story goes, this kind of creature is impossible to find in the wild. You'll hear that developers can't become designers, that they should just hire out the work to a real professional.
 
 I disagree wholeheartedly. As a web developer, you have a unique blend of coding skill and the ability to turn visual design ideas into reality. If you can take a comp from Photoshop and turn it into working HTML and CSS, then make no mistake, you possess this skill.
 
-The missing piece, then, is the ability to design that Photoshop comp in the first place.
+The missing piece, then, is the ability to design that Photoshop comp in the first place. It requires practice, but it's not an impossible skill or something that people are "born" with. You can learn.
 
 For many reasons, it's very important for developers (web and app developers especially) to pick up a working knowledge of design principles. In no particular order, here they are:
 
@@ -28,6 +30,8 @@ Working on design stimulates the creative parts of your brain. Writing software 
 Both of these skill sets draw from and (even more importantly), <em>exercise</em> the same pool of creative energy. Think of your creativity like a muscle. Exercise it by practicing both development and design.
 
 <h3>Work Better in Teams</h3>
+
+<img src="/images/posts/2014-09-19-developers-need-to-learn-design/design_team.jpg" alt="Design Team"/>
 
 If you write software 9-5, you likely work with a designer. And even in the best of times, it can feel like you and the designer aren't speaking the same language.
 
@@ -57,6 +61,8 @@ Not all of design is just picking things that are visually appealing. That's par
 
 <h3>Keep Your Career Moving Forward</h3>
 
+<img src="/images/posts/2014-09-19-developers-need-to-learn-design/career.jpg" alt="Career"/>
+
 More and more, software is differentiated from its competitors through things like user experience, visual design, and how it makes users feel.
 
 It's not enough to build in a ton of awesome features that you know everyone will love. They need to be delightful to use.
@@ -65,10 +71,12 @@ In order to really make this happen, the developers need to be on the same page 
 
 As you get better at design, you will have a new selling point to present to potential employers. You'll be able to confidently say that you have worked both sides of the fence, and that you're well-versed in the language of design. Managers will think this is great, because it means less conflict within the team.
 
-<h3>Food For Thought</h3>
+<h3>Bonus: It's Fun!</h3>
 
-I hope this has given you some ideas to think about. As a developer myself, it took me a number of years to realize that pursuing my interest in design was even worthwhile. There is a lot of negative writing on the web about how developers shouldn't try to do design, how they should hire a real designer, and other stuff like that.
+Not everything has to be about work! Building beautiful and functional designs is very satisfying, and the process can be a lot of fun, provided you have some basic knowledge.
 
-To that I say -- of course you can't go from no design experience to grand excellence! But there are plenty of reasons why you should try to learn the trade.
+I hope this has given you some ideas to think about. As a developer myself, it took me a number of years to realize that pursuing my interest in design was even worthwhile. There is a lot of negative writing on the web about how developers shouldn't try to do their own design, how they should hire a real designer, and other stuff like that.
+
+To that I say -- of course you can't go from no design experience to grand excellence! You'll never get better if you never even try. But there are plenty of reasons why you should try to learn the trade.
 
 Just try to improve a little bit at a time. It's a journey, not a race. You'll be amazed how quickly it goes.
