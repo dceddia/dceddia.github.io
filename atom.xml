@@ -4,7 +4,7 @@
   <title><![CDATA[design with dave]]></title>
   <link href="http://dceddia.github.io/atom.xml" rel="self"/>
   <link href="http://dceddia.github.io/"/>
-  <updated>2014-09-26T00:54:03-04:00</updated>
+  <updated>2014-09-26T01:00:49-04:00</updated>
   <id>http://dceddia.github.io/</id>
   <author>
     <name><![CDATA[Dave Ceddia]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Picking Great Colors]]></title>
-    <link href="http://dceddia.github.io/picking-great-colors/"/>
+    <title type="html"><![CDATA[Basics: Choosing Colors]]></title>
+    <link href="http://dceddia.github.io/choosing-colors/"/>
     <updated>2014-09-24T23:02:08-04:00</updated>
-    <id>http://dceddia.github.io/picking-great-colors</id>
+    <id>http://dceddia.github.io/choosing-colors</id>
     <content type="html"><![CDATA[<p>You may find that it&rsquo;s difficult to choose colors that look great together. You might&rsquo;ve even tried using one of the online color picker tools to help, but it was still hard to get good colors out of it.</p>
 
 <p>Today I&rsquo;m going to talk about the color wheel, how it works, and how to make the most of some helpful color picker tools to choose a great palette of colors that look nice together.</p>
@@ -26,7 +26,7 @@
 
 <p>It all starts here. The color wheel is a very simple concept with a lot that can be extracted from it.</p>
 
-<p><img class="center" src="http://dceddia.github.io/images/posts/2014-09-24-picking-great-colors/color_wheel.png" title="Color Wheel" ></p>
+<p><img class="center" src="http://dceddia.github.io/images/posts/2014-09-26-choosing-colors/color_wheel.png" title="Color Wheel" ></p>
 
 <p>You might notice that it&rsquo;s a circle. You&rsquo;d be correct! You might also remember from geometry class that a circle can be divided into 360 degrees. The hues shown here are evenly spaced, 30 degrees apart. Let&rsquo;s take a step back and talk about &ldquo;hue&rdquo; for a second.</p>
 
@@ -40,7 +40,7 @@
 
 <p>The saturation of a color defines how strong it looks. This only really makes sense <em>after</em> we&rsquo;ve already chosen a hue. It&rsquo;s a percentage of the hue. Here&rsquo;s the full saturation range for hue 0, also know as red:</p>
 
-<p><span class='caption-wrapper center'><img class='caption' src='http://dceddia.github.io/images/posts/2014-09-24-picking-great-colors/red_hue_range.jpg' width='' height='' title='Range of Red Hues'><span class='caption-text'>Range of Red Hues</span></span></p>
+<p><span class='caption-wrapper center'><img class='caption' src='http://dceddia.github.io/images/posts/2014-09-26-choosing-colors/red_hue_range.jpg' width='' height='' title='Range of Red Hues'><span class='caption-text'>Range of Red Hues</span></span></p>
 
 <p>So a high saturation means you get the full color (bright red, in this case). A lower saturation will give you a faint red. 0 saturation is white.</p>
 
@@ -50,7 +50,7 @@
 
 <p>These terms are used interchangably, and I like Brightness a little better because it&rsquo;s more descriptive. Fully bright means you see the full color. It&rsquo;s a percentage (like Saturation is). A value of 100% = solid hue (if saturation is at full, anyway). 0 brightness is black, which makes some sense if you think about it. If you turn the light off in your room, it&rsquo;s black, right? No brightness.</p>
 
-<p><span class='caption-wrapper center'><img class='caption' src='http://dceddia.github.io/images/posts/2014-09-24-picking-great-colors/red_brightness_range.jpg' width='' height='' title='Range of Red Values (Brightnesses)'><span class='caption-text'>Range of Red Values (Brightnesses)</span></span></p>
+<p><span class='caption-wrapper center'><img class='caption' src='http://dceddia.github.io/images/posts/2014-09-26-choosing-colors/red_brightness_range.jpg' width='' height='' title='Range of Red Values (Brightnesses)'><span class='caption-text'>Range of Red Values (Brightnesses)</span></span></p>
 
 <h3>Back to the color wheel</h3>
 
@@ -58,7 +58,7 @@
 
 <p>Well, the one I drew is pretty basic. It just has hues, and not many of them, at that. There&rsquo;s no variation in saturation or brightness. For a nice color wheel suitable for actually doing things, check out <a href="http://paletton.com">Paletton</a>. There are other tools like this, for example <a href="https://kuler.adobe.com">Adobe Kuler</a> and <a href="http://colourlovers.com">ColourLOVERS</a>, but I&rsquo;ll just focus on Paletton for now. It looks like this:</p>
 
-<p><img class="center" src="http://dceddia.github.io/images/posts/2014-09-24-picking-great-colors/paletton_annotated.png" title="Paletton" ></p>
+<p><img class="center" src="http://dceddia.github.io/images/posts/2014-09-26-choosing-colors/paletton_annotated.png" title="Paletton" ></p>
 
 <p>Visit the site and try playing around with it. Here are a few things to take note of:</p>
 
@@ -92,7 +92,7 @@
 
 <p>Remember, you don&rsquo;t have to use the full hue for every color. Let&rsquo;s say you picked hue 285, for instance. It would look like this:</p>
 
-<p><img class="center" src="http://dceddia.github.io/images/posts/2014-09-24-picking-great-colors/paletton_285.png" title="Paletton" ></p>
+<p><img class="center" src="http://dceddia.github.io/images/posts/2014-09-26-choosing-colors/paletton_285.png" title="Paletton" ></p>
 
 <p>From this page, these are just a few of the palettes that you could come up with:</p>
 
@@ -1139,7 +1139,7 @@
 
 <p>I hope this Carbon Copy walkthrough has been fun, and motivates you to try your hand at copying other designs out on the web. My goal is to provide you with design practice exercises that’ll increase your skill as well as mine.</p>
 
-<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#58;&#100;&#x61;&#118;&#101;&#64;&#x64;&#101;&#x73;&#x69;&#103;&#110;&#x77;&#x69;&#116;&#x68;&#100;&#97;&#x76;&#x65;&#x2e;&#x63;&#111;&#x6d;">&#x64;&#97;&#118;&#101;&#64;&#100;&#101;&#115;&#105;&#x67;&#110;&#119;&#105;&#x74;&#104;&#x64;&#x61;&#x76;&#x65;&#46;&#99;&#111;&#109;</a>). I&rsquo;d love to hear what you think.</p>
+<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#x6d;&#97;&#105;&#108;&#116;&#111;&#58;&#x64;&#x61;&#x76;&#x65;&#x40;&#100;&#x65;&#115;&#105;&#x67;&#x6e;&#x77;&#x69;&#116;&#x68;&#x64;&#x61;&#x76;&#101;&#46;&#99;&#x6f;&#109;">&#x64;&#97;&#118;&#101;&#64;&#100;&#101;&#115;&#x69;&#x67;&#x6e;&#119;&#105;&#x74;&#104;&#100;&#x61;&#x76;&#101;&#x2e;&#x63;&#111;&#109;</a>). I&rsquo;d love to hear what you think.</p>
 ]]></content>
   </entry>
   
