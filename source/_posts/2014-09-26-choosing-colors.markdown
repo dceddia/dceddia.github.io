@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Picking Great Colors"
+title: "Basics: Choosing Colors"
 date: 2014-09-24 23:02:08 -0400
 comments: true
 categories:
@@ -16,7 +16,7 @@ Today I'm going to talk about the color wheel, how it works, and how to make the
 
 It all starts here. The color wheel is a very simple concept with a lot that can be extracted from it.
 
-{%img center /images/posts/2014-09-24-picking-great-colors/color_wheel.png Color Wheel %}
+{%img center /images/posts/2014-09-26-choosing-colors/color_wheel.png Color Wheel %}
 
 You might notice that it's a circle. You'd be correct! You might also remember from geometry class that a circle can be divided into 360 degrees. The hues shown here are evenly spaced, 30 degrees apart. Let's take a step back and talk about "hue" for a second.
 
@@ -30,7 +30,7 @@ A color can be defined in many different ways, but here we'll talk about Hue, Sa
 
 The saturation of a color defines how strong it looks. This only really makes sense *after* we've already chosen a hue. It's a percentage of the hue. Here's the full saturation range for hue 0, also know as red:
 
-{%imgcap center /images/posts/2014-09-24-picking-great-colors/red_hue_range.jpg Range of Red Hues %}
+{%imgcap center /images/posts/2014-09-26-choosing-colors/red_hue_range.jpg Range of Red Hues %}
 
 So a high saturation means you get the full color (bright red, in this case). A lower saturation will give you a faint red. 0 saturation is white.
 
@@ -40,7 +40,7 @@ Ok, there's one more term and then we'll get back to the color wheel. That one i
 
 These terms are used interchangably, and I like Brightness a little better because it's more descriptive. Fully bright means you see the full color. It's a percentage (like Saturation is). A value of 100% = solid hue (if saturation is at full, anyway). 0 brightness is black, which makes some sense if you think about it. If you turn the light off in your room, it's black, right? No brightness.
 
-{%imgcap center /images/posts/2014-09-24-picking-great-colors/red_brightness_range.jpg Range of Red Values (Brightnesses) %}
+{%imgcap center /images/posts/2014-09-26-choosing-colors/red_brightness_range.jpg Range of Red Values (Brightnesses) %}
 
 ### Back to the color wheel
 
@@ -48,7 +48,7 @@ Ok, so how does all of this apply to the color wheel?
 
 Well, the one I drew is pretty basic. It just has hues, and not many of them, at that. There's no variation in saturation or brightness. For a nice color wheel suitable for actually doing things, check out [Paletton](http://paletton.com). There are other tools like this, for example [Adobe Kuler](https://kuler.adobe.com) and [ColourLOVERS](http://colourlovers.com), but I'll just focus on Paletton for now. It looks like this:
 
-{%img center /images/posts/2014-09-24-picking-great-colors/paletton_annotated.png Paletton %}
+{%img center /images/posts/2014-09-26-choosing-colors/paletton_annotated.png Paletton %}
 
 Visit the site and try playing around with it. Here are a few things to take note of:
 
@@ -71,7 +71,7 @@ Go to Paletton and build a few color palettes that look pleasing to you. Try all
 
 Remember, you don't have to use the full hue for every color. Let's say you picked hue 285, for instance. It would look like this:
 
-{%img center /images/posts/2014-09-24-picking-great-colors/paletton_285.png Paletton %}
+{%img center /images/posts/2014-09-26-choosing-colors/paletton_285.png Paletton %}
 
 From this page, these are just a few of the palettes that you could come up with:
 
