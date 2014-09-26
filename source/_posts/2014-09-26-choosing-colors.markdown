@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Basics: Choosing Colors"
-date: 2014-09-24 23:02:08 -0400
+date: 2014-09-26 23:02:08 -0400
 comments: true
 categories:
 keywords: picking colors,color wheel,how to choose colors,web colors
