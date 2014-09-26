@@ -52,3 +52,19 @@
   float: left;
   margin-right: 1.2em;
 }
+
+.palette {
+  background: #fff;
+  border: 1px solid #222;
+  display: inline-block;
+  text-align: center;
+  height: 44px;
+  padding: 4px 4px 0 4px;
+
+  .block {
+    width: 40px;
+    height: 40px;
+    border: 0;
+    display: inline-block;
+  }
+}

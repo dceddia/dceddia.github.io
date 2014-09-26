@@ -68,6 +68,6 @@ The third one is called <span style="font-family: Flamenco">Flamenco</span>, and
 
 I hope these examples have given you some ideas for ways to get better at choosing great fonts. Like everything else about design, it'll take some practice to get better at it. Have some fun with it!
 
-It useful to have the most common typefaces memorized so when you come upon the question of which font to use for something, you can reach into your bag of frequently used ones. My next post will talk the most common fonts on the web, and how to quickly become familiar with them.
+It's useful to have the most common typefaces memorized so when you come upon the question of which font to use for something, you can reach into your bag of frequently used ones.
 
 If you're not already a member of the weekly newsletter, be sure to subscribe with the box on the left!
