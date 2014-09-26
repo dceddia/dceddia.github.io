@@ -4,7 +4,7 @@
   <title><![CDATA[design with dave]]></title>
   <link href="http://dceddia.github.io/atom.xml" rel="self"/>
   <link href="http://dceddia.github.io/"/>
-  <updated>2014-09-22T00:48:15-04:00</updated>
+  <updated>2014-09-26T00:54:03-04:00</updated>
   <id>http://dceddia.github.io/</id>
   <author>
     <name><![CDATA[Dave Ceddia]]></name>
@@ -12,6 +12,120 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picking Great Colors]]></title>
+    <link href="http://dceddia.github.io/picking-great-colors/"/>
+    <updated>2014-09-24T23:02:08-04:00</updated>
+    <id>http://dceddia.github.io/picking-great-colors</id>
+    <content type="html"><![CDATA[<p>You may find that it&rsquo;s difficult to choose colors that look great together. You might&rsquo;ve even tried using one of the online color picker tools to help, but it was still hard to get good colors out of it.</p>
+
+<p>Today I&rsquo;m going to talk about the color wheel, how it works, and how to make the most of some helpful color picker tools to choose a great palette of colors that look nice together.</p>
+
+<h3>The Color Wheel</h3>
+
+<p>It all starts here. The color wheel is a very simple concept with a lot that can be extracted from it.</p>
+
+<p><img class="center" src="http://dceddia.github.io/images/posts/2014-09-24-picking-great-colors/color_wheel.png" title="Color Wheel" ></p>
+
+<p>You might notice that it&rsquo;s a circle. You&rsquo;d be correct! You might also remember from geometry class that a circle can be divided into 360 degrees. The hues shown here are evenly spaced, 30 degrees apart. Let&rsquo;s take a step back and talk about &ldquo;hue&rdquo; for a second.</p>
+
+<h4>Hue</h4>
+
+<p>A color can be defined in many different ways, but here we&rsquo;ll talk about Hue, Saturation, and Value. You might also see this abbreviated HSV (or HSB, where the B is for Brightness).</p>
+
+<p>&ldquo;Hue&rdquo; is just a fancy word for &ldquo;color.&rdquo; You could also get mathematical and say hue is the number of degrees you travel around the color wheel. At 0 degrees, you have red. At 180 degrees, there&rsquo;s green. So hue is a number between 0 and 360 that defines where you are on the color wheel, and it defines your &ldquo;basic color&rdquo;. From there, the basic color can be altered by&hellip;</p>
+
+<h4>Saturation</h4>
+
+<p>The saturation of a color defines how strong it looks. This only really makes sense <em>after</em> we&rsquo;ve already chosen a hue. It&rsquo;s a percentage of the hue. Here&rsquo;s the full saturation range for hue 0, also know as red:</p>
+
+<p><span class='caption-wrapper center'><img class='caption' src='http://dceddia.github.io/images/posts/2014-09-24-picking-great-colors/red_hue_range.jpg' width='' height='' title='Range of Red Hues'><span class='caption-text'>Range of Red Hues</span></span></p>
+
+<p>So a high saturation means you get the full color (bright red, in this case). A lower saturation will give you a faint red. 0 saturation is white.</p>
+
+<p>Ok, there&rsquo;s one more term and then we&rsquo;ll get back to the color wheel. That one is &hellip;</p>
+
+<h4>Value (or Brightness)</h4>
+
+<p>These terms are used interchangably, and I like Brightness a little better because it&rsquo;s more descriptive. Fully bright means you see the full color. It&rsquo;s a percentage (like Saturation is). A value of 100% = solid hue (if saturation is at full, anyway). 0 brightness is black, which makes some sense if you think about it. If you turn the light off in your room, it&rsquo;s black, right? No brightness.</p>
+
+<p><span class='caption-wrapper center'><img class='caption' src='http://dceddia.github.io/images/posts/2014-09-24-picking-great-colors/red_brightness_range.jpg' width='' height='' title='Range of Red Values (Brightnesses)'><span class='caption-text'>Range of Red Values (Brightnesses)</span></span></p>
+
+<h3>Back to the color wheel</h3>
+
+<p>Ok, so how does all of this apply to the color wheel?</p>
+
+<p>Well, the one I drew is pretty basic. It just has hues, and not many of them, at that. There&rsquo;s no variation in saturation or brightness. For a nice color wheel suitable for actually doing things, check out <a href="http://paletton.com">Paletton</a>. There are other tools like this, for example <a href="https://kuler.adobe.com">Adobe Kuler</a> and <a href="http://colourlovers.com">ColourLOVERS</a>, but I&rsquo;ll just focus on Paletton for now. It looks like this:</p>
+
+<p><img class="center" src="http://dceddia.github.io/images/posts/2014-09-24-picking-great-colors/paletton_annotated.png" title="Paletton" ></p>
+
+<p>Visit the site and try playing around with it. Here are a few things to take note of:</p>
+
+<ul>
+<li>The selector up top lets you choose the type of palette and how many colors you can work with.
+
+<ul>
+<li>Even though you choose 1, 3, or 4 colors, you&rsquo;ll see that you can choose many different variations within each color (saturation/value). They still work well together because they&rsquo;re the same hue.</li>
+</ul>
+</li>
+<li>Hover over one of the color squares to the right to see its RGB value, great for pasting into your CSS.</li>
+<li>The circle up top (pointed to by the black arrow) is the hue selector. Drag it around to pick a different hue.</li>
+<li>You can also pick hues by clicking inside one of the outer rings of solid color, the ones that look like Tetris pieces.</li>
+<li>The little circles in the middle can be dragged around to change the saturation and value/brightness simultaneously.
+
+<ul>
+<li>X axis is Saturation (left/right)</li>
+<li>Y axis is Value/Brightness (up/down)</li>
+</ul>
+</li>
+<li>By changing the Saturation + Value of the base color, you get 4 other similar colors (those 4 other circles in the middle).</li>
+<li>Try out the <strong>Fine Tune</strong> button, which lets you change values by small increments and also shows you how the color wheel is affected by each of them (watch the circles move).</li>
+</ul>
+
+
+<p>As a side note: would a video of using Paletton be useful? Should I include a video and text, or just one of them? Let me know in the comments.</p>
+
+<h3>Practice</h3>
+
+<p>Go to Paletton and build a few color palettes that look pleasing to you. Try all of the options at the top-left.</p>
+
+<p>Remember, you don&rsquo;t have to use the full hue for every color. Let&rsquo;s say you picked hue 285, for instance. It would look like this:</p>
+
+<p><img class="center" src="http://dceddia.github.io/images/posts/2014-09-24-picking-great-colors/paletton_285.png" title="Paletton" ></p>
+
+<p>From this page, these are just a few of the palettes that you could come up with:</p>
+
+<div class="palette">
+  <div class="block" style="background-color: #998ea8;"></div>
+  <div class="block" style="background-color: #99a463;"></div>
+  <div class="block" style="background-color: #847445;"></div>
+</div>
+
+
+
+
+<div class="palette">
+  <div class="block" style="background-color: #321e4c;"></div>
+  <div class="block" style="background-color: #e8efc6;"></div>
+  <div class="block" style="background-color: #ccbe92;"></div>
+</div>
+
+
+
+
+<div class="palette">
+  <div class="block" style="background-color: #e8efc6;"></div>
+  <div class="block" style="background-color: #998ea8;"></div>
+  <div class="block" style="background-color: #f7edcd;"></div>
+</div>
+
+
+<p>So go try creating a few different palettes and get a feel for what works. Paletton also has a handy Examples section (bottom right) that lets you preview the colors in a pseudo-web-page.</p>
+
+<p>Happy color picking!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How to Choose a Great Font]]></title>
@@ -81,7 +195,7 @@
 
 <p>I hope these examples have given you some ideas for ways to get better at choosing great fonts. Like everything else about design, it&rsquo;ll take some practice to get better at it. Have some fun with it!</p>
 
-<p>It useful to have the most common typefaces memorized so when you come upon the question of which font to use for something, you can reach into your bag of frequently used ones. My next post will talk the most common fonts on the web, and how to quickly become familiar with them.</p>
+<p>It&rsquo;s useful to have the most common typefaces memorized so when you come upon the question of which font to use for something, you can reach into your bag of frequently used ones.</p>
 
 <p>If you&rsquo;re not already a member of the weekly newsletter, be sure to subscribe with the box on the left!</p>
 ]]></content>
@@ -1025,7 +1139,7 @@
 
 <p>I hope this Carbon Copy walkthrough has been fun, and motivates you to try your hand at copying other designs out on the web. My goal is to provide you with design practice exercises that’ll increase your skill as well as mine.</p>
 
-<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#111;&#x3a;&#x64;&#x61;&#x76;&#101;&#64;&#x64;&#x65;&#115;&#x69;&#x67;&#x6e;&#119;&#x69;&#116;&#104;&#x64;&#97;&#x76;&#x65;&#46;&#x63;&#111;&#x6d;">&#100;&#97;&#x76;&#x65;&#x40;&#x64;&#x65;&#115;&#105;&#103;&#110;&#119;&#105;&#x74;&#104;&#100;&#97;&#x76;&#x65;&#46;&#99;&#x6f;&#109;</a>). I&rsquo;d love to hear what you think.</p>
+<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#58;&#100;&#x61;&#118;&#101;&#64;&#x64;&#101;&#x73;&#x69;&#103;&#110;&#x77;&#x69;&#116;&#x68;&#100;&#97;&#x76;&#x65;&#x2e;&#x63;&#111;&#x6d;">&#x64;&#97;&#118;&#101;&#64;&#100;&#101;&#115;&#105;&#x67;&#110;&#119;&#105;&#x74;&#104;&#x64;&#x61;&#x76;&#x65;&#46;&#99;&#111;&#109;</a>). I&rsquo;d love to hear what you think.</p>
 ]]></content>
   </entry>
   
