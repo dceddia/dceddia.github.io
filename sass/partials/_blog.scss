@@ -65,6 +65,10 @@ article {
       color: #666;
       display: block;
     }
+
+    &.center {
+      text-align: center;
+    }
   }
 
   img.bordered, .caption-wrapper {
