@@ -4,7 +4,7 @@
   <title><![CDATA[design with dave]]></title>
   <link href="http://dceddia.github.io/atom.xml" rel="self"/>
   <link href="http://dceddia.github.io/"/>
-  <updated>2014-10-03T08:54:55-04:00</updated>
+  <updated>2014-10-03T09:02:18-04:00</updated>
   <id>http://dceddia.github.io/</id>
   <author>
     <name><![CDATA[Dave Ceddia]]></name>
@@ -24,6 +24,11 @@
 
 <p>Check out the video, and follow along!</p>
 
+<!--more-->
+
+
+
+
 <div class="embed-video-container"><iframe src="//www.youtube.com/embed/a3K8-CjoFFk" allowfullscreen></iframe></div>
 
 
@@ -41,6 +46,9 @@
     <content type="html"><![CDATA[<p>You may find that it&rsquo;s difficult to choose colors that look great together. You might&rsquo;ve even tried using one of the online color picker tools to help, but it was still hard to get good colors out of it.</p>
 
 <p>Today I&rsquo;m going to talk about the color wheel, how it works, and how to make the most of some helpful color picker tools to choose a great palette of colors that look nice together.</p>
+
+<!--more-->
+
 
 <h3>The Color Wheel</h3>
 
@@ -154,6 +162,9 @@
     <id>http://dceddia.github.io/how-to-choose-a-great-font</id>
     <content type="html"><![CDATA[<p>There are countless fonts available on the web today. How do you go about choosing one for your design? You can flip through the endless typefaces availabe on <a href="https://www.google.com/fonts">Google Fonts</a> or <a href="http://www.fontsquirrel.com">Font Squirrel</a> or <a href="http://www.typekit.com">Typekit</a>, but after a while they all start to look the same. It reminds me of sniffing candles and trying to choose the best one. After about 5 of them, I just can&rsquo;t tell any more.</p>
 
+<!--more-->
+
+
 <p>One of the reasons it&rsquo;s important to think about the font you choose is because fonts have <em>personalities</em>. They imply meaning just by virtue of the way they look, and some of them speak stronger than others. If you match the font&rsquo;s personality with the meaning you&rsquo;re trying to convey, you&rsquo;re golden. But if you do something like this, well&hellip;</p>
 
 <p><span class='caption-wrapper'><img class='caption' src='http://dceddia.github.io/images/posts/2014-09-11-how-to-choose-a-great-font/bedford-police-car.jpg' width='' height='' title='Comic Sans on a police car does not inspire confidence.'><span class='caption-text'>Comic Sans on a police car does not inspire confidence.</span></span></p>
@@ -228,6 +239,9 @@
     <id>http://dceddia.github.io/user-experience-design</id>
     <content type="html"><![CDATA[<p>User experience design goes hand-in-hand with web design, and if you&rsquo;re trying to broaden your skills as a developer by learning more about web and visual design, user experience design (or UX design) is another topic worth learning about.</p>
 
+<!--more-->
+
+
 <p>A great resource on UX design was posted to Hacker News a few days back, and rather than try to duplicate their 112 hours of curated video content on my blog here, I&rsquo;ll just link you over to it.  It&rsquo;s created by Julia D, a Senior UX Designer at TripIt. I&rsquo;ve been happy with the user experience at TripIt, and I can&rsquo;t think of a better person to learn from than someone who does it every day.</p>
 
 <p>The course is appropriately titled <a href="http://www.mysliderule.com/learning-paths/user-experience-design">User Experience Design</a>. I like what I&rsquo;ve looked through so far. You do need to sign up for Sliderule (or use your Facebook account), and some of the curated videos require signups. The ones I&rsquo;ve run into have been free, though.</p>
@@ -242,6 +256,9 @@
     <updated>2014-09-02T21:17:17-04:00</updated>
     <id>http://dceddia.github.io/tiny-page-layouts</id>
     <content type="html"><![CDATA[<p>In today&rsquo;s exercise, we&rsquo;ll draw a bunch of small page layouts. This will help to improve the way you visualize web pages, and break them down into their basic parts. Rather tham spend a lot of time fleshing out the details, like text and other content, we&rsquo;ll just be using basic shapes.</p>
+
+<!--more-->
+
 
 <p>The inspiration for this exercise comes from the book <a href="http://www.amazon.com/gp/product/1581805012/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1581805012&linkCode=as2&tag=designwithdav-20&linkId=XVIV2ASG72RURTAR">Design Basics Index</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=designwithdav-20&l=as2&o=1&a=1581805012" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by Jim Krause. It&rsquo;s a great resource for learning about design principles. I love how it has a ton of examples that show good versions of designs alongside the bad versions, and it clearly explains what makes the &ldquo;good&rdquo; one better. I&rsquo;ve seen a few places so far where he&rsquo;ll also give multiple iterations of a design, or multiple takes on the same theme.</p>
 
@@ -275,6 +292,9 @@
     <updated>2014-08-26T21:49:27-04:00</updated>
     <id>http://dceddia.github.io/carbon-copy-google-login-page</id>
     <content type="html"><![CDATA[<p>Today we&rsquo;re going to take an existing page and try to duplicate it pixel-for-pixel. The goal of this exercise is to get some experience with building a fully-designed web page down to the last detail, but without having to come up with the design yourself first. This one is pretty long, but I think the experience is worthwhile. If you finish this whole thing yourself, you should feel accomplished.</p>
+
+<!--more-->
+
 
 <p>I purposefully tried to pick a page that was very simple, and one that many people would be familiar with. Without further ado, I give you the Google login page:</p>
 
@@ -1159,7 +1179,7 @@
 
 <p>I hope this Carbon Copy walkthrough has been fun, and motivates you to try your hand at copying other designs out on the web. My goal is to provide you with design practice exercises that’ll increase your skill as well as mine.</p>
 
-<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#x6f;&#58;&#x64;&#x61;&#x76;&#101;&#x40;&#x64;&#101;&#115;&#105;&#103;&#110;&#x77;&#105;&#116;&#104;&#x64;&#x61;&#x76;&#x65;&#x2e;&#99;&#x6f;&#109;">&#100;&#97;&#x76;&#101;&#64;&#x64;&#x65;&#115;&#105;&#x67;&#x6e;&#119;&#105;&#116;&#104;&#100;&#97;&#118;&#x65;&#46;&#99;&#x6f;&#109;</a>). I&rsquo;d love to hear what you think.</p>
+<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#x6d;&#97;&#105;&#108;&#x74;&#111;&#58;&#100;&#x61;&#x76;&#101;&#64;&#100;&#x65;&#115;&#105;&#103;&#x6e;&#119;&#105;&#x74;&#104;&#100;&#x61;&#x76;&#101;&#x2e;&#99;&#x6f;&#x6d;">&#x64;&#x61;&#x76;&#x65;&#x40;&#100;&#x65;&#x73;&#105;&#103;&#110;&#119;&#x69;&#x74;&#104;&#x64;&#x61;&#118;&#101;&#x2e;&#x63;&#x6f;&#109;</a>). I&rsquo;d love to hear what you think.</p>
 ]]></content>
   </entry>
   
@@ -1171,6 +1191,9 @@
     <content type="html"><![CDATA[<p>One thing that I always find difficult is how to lay out a new web page. Starting with a blank slate is intimidating, and it&rsquo;s tough to know what should go where. You&rsquo;ve got to worry about spacing and navigation and then you&rsquo;re thinking about the pretty header design and the footer and the fonts and the colors&hellip;</p>
 
 <p>Let&rsquo;s try to get better at designing pages by starting at a high level with a simple problem to solve.</p>
+
+<!--more-->
+
 
 <p>I want to start with a couple sites that I think are well-designed, or at least nice to look at. Following the idea that you should <a href="http://dceddia.github.io/improve-your-design-skills">duplicate before you innovate</a>, let&rsquo;s take a look at a few examples and break them down into simple blocks.</p>
 
@@ -1226,6 +1249,9 @@
 <p>Maybe you’ve even tried your hand at imitating the designs you see. It’s hard, though, isn’t it? Your own work never comes out looking as good as something produced by a &ldquo;real&rdquo; designer, and you become disheartened by how difficult it is. You go back to writing code. You’re good at that. It’s what you get paid for. But despite that, there’s still a feeling inside that you could be a designer. You just need to learn.</p>
 
 <p>I’ve been there too. In fact, I still am. That’s why I started this site: to help developers and other technically-minded people learn a thing or two about design &ndash; and while I’m at it, improve my own design skills. Let’s take a look at how we’ll grow together.</p>
+
+<!--more-->
+
 
 <h2>Practice</h2>
 
