@@ -14,6 +14,8 @@ Maybe you’ve even tried your hand at imitating the designs you see. It’s har
 
 I’ve been there too. In fact, I still am. That’s why I started this site: to help developers and other technically-minded people learn a thing or two about design -- and while I’m at it, improve my own design skills. Let’s take a look at how we’ll grow together.
 
+<!--more-->
+
 Practice
 --------
 

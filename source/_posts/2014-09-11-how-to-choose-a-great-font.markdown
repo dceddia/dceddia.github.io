@@ -12,6 +12,8 @@ head: |
 
 There are countless fonts available on the web today. How do you go about choosing one for your design? You can flip through the endless typefaces availabe on [Google Fonts](https://www.google.com/fonts) or [Font Squirrel](http://www.fontsquirrel.com) or [Typekit](http://www.typekit.com), but after a while they all start to look the same. It reminds me of sniffing candles and trying to choose the best one. After about 5 of them, I just can't tell any more.
 
+<!--more-->
+
 One of the reasons it's important to think about the font you choose is because fonts have *personalities*. They imply meaning just by virtue of the way they look, and some of them speak stronger than others. If you match the font's personality with the meaning you're trying to convey, you're golden. But if you do something like this, well...
 
 {%imgcap /images/posts/2014-09-11-how-to-choose-a-great-font/bedford-police-car.jpg Comic Sans on a police car does not inspire confidence. %}

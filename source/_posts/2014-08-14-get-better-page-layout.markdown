@@ -12,6 +12,8 @@ One thing that I always find difficult is how to lay out a new web page. Startin
 
 Let's try to get better at designing pages by starting at a high level with a simple problem to solve.
 
+<!--more-->
+
 I want to start with a couple sites that I think are well-designed, or at least nice to look at. Following the idea that you should [duplicate before you innovate](/improve-your-design-skills), let's take a look at a few examples and break them down into simple blocks.
 
 Here's MailChimp's pricing page:

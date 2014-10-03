@@ -10,6 +10,8 @@ description: Recreate the Google Login page from scratch in HTML and CSS
 
 Today we're going to take an existing page and try to duplicate it pixel-for-pixel. The goal of this exercise is to get some experience with building a fully-designed web page down to the last detail, but without having to come up with the design yourself first. This one is pretty long, but I think the experience is worthwhile. If you finish this whole thing yourself, you should feel accomplished.
 
+<!--more-->
+
 I purposefully tried to pick a page that was very simple, and one that many people would be familiar with. Without further ado, I give you the Google login page:
 
 {%img /images/posts/2014-08-26-carbon-copy-google-login-page/original-login-page.png 927 1149 Google Login Page %}

@@ -12,6 +12,8 @@ You may find that it's difficult to choose colors that look great together. You 
 
 Today I'm going to talk about the color wheel, how it works, and how to make the most of some helpful color picker tools to choose a great palette of colors that look nice together.
 
+<!--more-->
+
 ### The Color Wheel
 
 It all starts here. The color wheel is a very simple concept with a lot that can be extracted from it.
