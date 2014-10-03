@@ -19,3 +19,4 @@ Check out the video, and follow along!
 When you're done, if you want to practice some more, head over to [Font Awesome's icon set](http://fortawesome.github.io/Font-Awesome/icons/), pick one, and try to duplicate it yourself. You'll get the hang of the pen tool a lot faster if you're designing something real, and personally, creating an icon seems a lot more fun than tracing out some sort of nondescript practice shape.
 
 Have fun with it!
+
