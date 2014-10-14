@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cargo Cult Design"
+title: "Tell a Story With Your Design"
 date: 2014-10-13 14:21:56 -0400
 comments: true
 categories:
@@ -8,11 +8,15 @@ keywords:
 description:
 ---
 
+{%img center /images/posts/2014-10-13-cargo-cult-design/book.jpg Book %}
+
 Always start with meaning.
 
-Start with the intention behind your design and work forward. Don't just add things for the sake of style, at least not early on. Ever notice how designers talking about their work will discuss the story behind it?
+Begin with the intention behind your design and work forward. Don't just add things for the sake of style, at least not early on. Ever notice how designers talking about their work will discuss the story behind it?
 
 They don't say things like how they added in a gradient to make it look more *Web 2.0*. Or how they added in notched edges to a box just because it looked neat. The gradient is because of an unseen light source. The notched edges make the box look like a ticket to the event being announced.
+
+<!--more-->
 
 It's the stuff of high school English class, the "themes" behind the work, that give it depth. Personally, I've always sort of written off this kind of thing as fluffy thinking. In my mind, if the author had wanted to say something, then they should've just come out and said it. None of this hiding-in-the-shadows-of-meaning business.
 
