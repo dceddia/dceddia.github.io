@@ -4,7 +4,7 @@
   <title><![CDATA[design with dave]]></title>
   <link href="http://dceddia.github.io/atom.xml" rel="self"/>
   <link href="http://dceddia.github.io/"/>
-  <updated>2014-10-03T09:02:18-04:00</updated>
+  <updated>2014-10-14T00:25:18-04:00</updated>
   <id>http://dceddia.github.io/</id>
   <author>
     <name><![CDATA[Dave Ceddia]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Story Matters]]></title>
+    <link href="http://dceddia.github.io/the-story-matters/"/>
+    <updated>2014-10-14T00:15:56-04:00</updated>
+    <id>http://dceddia.github.io/the-story-matters</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://dceddia.github.io/images/posts/2014-10-14-the-story-matters/book.jpg" title="Book" ></p>
+
+<p>Always start with meaning.</p>
+
+<p>Begin with the intention behind your design and work forward. Don&rsquo;t just add things for the sake of style, at least not early on. Ever notice how designers talking about their work will discuss the story behind it?</p>
+
+<p>They don&rsquo;t say things like how they added in a gradient to make it look more <em>Web 2.0</em>. Or how they added in notched edges to a box just because it looked neat. The gradient is because of an unseen light source. The notched edges make the box look like a ticket to the event being announced.</p>
+
+<!--more-->
+
+
+<p>It&rsquo;s the stuff of high school English class, the &ldquo;themes&rdquo; behind the work, that give it depth. Personally, I&rsquo;ve always sort of written off this kind of thing as fluffy thinking. In my mind, if the author had wanted to say something, then they should&rsquo;ve just come out and said it. None of this hiding-in-the-shadows-of-meaning business.</p>
+
+<p>I&rsquo;ve spent most of my life thinking about art and design as something that polishes up or puts a pretty face on something that would otherwise just look bland.</p>
+
+<p>I&rsquo;m coming to realize that thinking this way is a mistake.</p>
+
+<p>The trouble is that it doesn&rsquo;t result in a product that has a good &ldquo;why&rdquo; behind it. It&rsquo;s actually <em>harder</em> to come up with ideas for a design if you don&rsquo;t have a story first.</p>
+
+<p>Imagine a painting of a woman who looks sad. It&rsquo;s easy, as the viewer, to look at it and say &ldquo;Ah, it&rsquo;s a picture of a sad girl. Looks nice!&rdquo; And just move on.</p>
+
+<p>But if you asked the artist what inspired the painting, they might talk about how the girl had just lost her father to a year-long battle with cancer. How she&rsquo;s out on a walk through the forest to reflect on all the great times her and her dad had together, especially their weekends camping and hiking. So she pitched a tent, lit a fire, and roasted some marshmallows in his honor. That&rsquo;s why there&rsquo;s a tent in the background, and her father&rsquo;s October birthday is why the trees are colored with the changes of fall.</p>
+
+<p>It&rsquo;s not because the artist painted a sad girl and then said &ldquo;Gee, this background is pretty boring, maybe I&rsquo;ll add some trees.&rdquo;</p>
+
+<p>Keep this sort of thing in mind as you design. There should be a reason, a <strong>story</strong> behind every line, every gradient, every blurred background. Sure, add some things for visual interest, but don&rsquo;t do it blindly. Do it with the meaning in mind.</p>
+
+<p>Have an intention in mind, and follow through. Your designs will come out better as a result.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Creating an Icon in Photoshop]]></title>
@@ -1179,7 +1215,7 @@
 
 <p>I hope this Carbon Copy walkthrough has been fun, and motivates you to try your hand at copying other designs out on the web. My goal is to provide you with design practice exercises that’ll increase your skill as well as mine.</p>
 
-<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#x6d;&#97;&#105;&#108;&#x74;&#111;&#58;&#100;&#x61;&#x76;&#101;&#64;&#100;&#x65;&#115;&#105;&#103;&#x6e;&#119;&#105;&#x74;&#104;&#100;&#x61;&#x76;&#101;&#x2e;&#99;&#x6f;&#x6d;">&#x64;&#x61;&#x76;&#x65;&#x40;&#100;&#x65;&#x73;&#105;&#103;&#110;&#119;&#x69;&#x74;&#104;&#x64;&#x61;&#118;&#101;&#x2e;&#x63;&#x6f;&#109;</a>). I&rsquo;d love to hear what you think.</p>
+<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#x6d;&#97;&#105;&#x6c;&#116;&#x6f;&#58;&#100;&#97;&#118;&#x65;&#x40;&#x64;&#101;&#115;&#x69;&#x67;&#x6e;&#x77;&#105;&#x74;&#x68;&#x64;&#x61;&#118;&#x65;&#x2e;&#99;&#111;&#x6d;">&#x64;&#97;&#x76;&#x65;&#x40;&#100;&#101;&#115;&#105;&#x67;&#110;&#119;&#105;&#x74;&#104;&#100;&#97;&#118;&#101;&#x2e;&#99;&#x6f;&#109;</a>). I&rsquo;d love to hear what you think.</p>
 ]]></content>
   </entry>
   
