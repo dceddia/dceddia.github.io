@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "The Story Matters"
-date: 2014-10-13 14:21:56 -0400
+date: 2014-10-14 00:15:56 -0400
 comments: true
 categories:
 keywords: design story,design meaning,design intentions,design themes
 description: Tell a story with your design. Have a meaning in mind and design toward that goal.
 ---
 
-{%img center /images/posts/2014-10-13-cargo-cult-design/book.jpg Book %}
+{%img center /images/posts/2014-10-14-the-story-matters/book.jpg Book %}
 
 Always start with meaning.
 
