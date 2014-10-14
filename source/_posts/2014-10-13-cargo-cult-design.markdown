@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Tell a Story With Your Design"
+title: "The Story Matters"
 date: 2014-10-13 14:21:56 -0400
 comments: true
 categories:
-keywords:
-description:
+keywords: design story,design meaning,design intentions,design themes
+description: Tell a story with your design. Have a meaning in mind and design toward that goal.
 ---
 
 {%img center /images/posts/2014-10-13-cargo-cult-design/book.jpg Book %}
@@ -24,9 +24,9 @@ I've spent most of my life thinking about art and design as something that polis
 
 I'm coming to realize that thinking this way is a mistake.
 
-The trouble is that it doesn't result in a product that has a good "why" behind it. It's actually *harder* to come up with ideas for a design if you don't have story first.
+The trouble is that it doesn't result in a product that has a good "why" behind it. It's actually *harder* to come up with ideas for a design if you don't have a story first.
 
-Imagine a painting of a woman who looks sad. It's easy, as the viewer, to look at it and say "ah, it's a picture of a sad girl. Looks nice!" And just move on.
+Imagine a painting of a woman who looks sad. It's easy, as the viewer, to look at it and say "Ah, it's a picture of a sad girl. Looks nice!" And just move on.
 
 But if you asked the artist what inspired the painting, they might talk about how the girl had just lost her father to a year-long battle with cancer. How she's out on a walk through the forest to reflect on all the great times her and her dad had together, especially their weekends camping and hiking. So she pitched a tent, lit a fire, and roasted some marshmallows in his honor. That's why there's a tent in the background, and her father's October birthday is why the trees are colored with the changes of fall.
 
