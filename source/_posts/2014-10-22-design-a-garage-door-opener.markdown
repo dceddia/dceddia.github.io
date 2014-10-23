@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Garage Door"
-date: 2014-10-21 23:19:05 -0400
+title: "Design a Garage Door Opener"
+date: 2014-10-22 23:18:10 -0400
 comments: true
 categories:
 keywords:
@@ -31,13 +31,13 @@ A lot of these were especially bad. **#1** shows the important info and the acti
 
 In **#3**, I just doodled some garages. I'm not very good at drawing, as you can see.
 
-{%img center /images/posts/2014-10-21-garage-door/interface-ideas-1.png First Draft %}
+{%img center /images/posts/2014-10-22-design-a-garage-door-opener/interface-ideas-1.png First Draft %}
 
 I liked **#6** though, and I thought it had more potential than the others. So I took that idea of having an image sandwiched by text and ran with it for the next panel.
 
 With these ones, I played around with different metaphors for the image. A garage door, a lock, a check/warning symbol. At the end of it, I liked the garage with the symbol above it the best, but the other ones were close behind. So hard to decide...
 
-{%img center /images/posts/2014-10-21-garage-door/interface-ideas-2.png Second Draft %}
+{%img center /images/posts/2014-10-22-design-a-garage-door-opener/interface-ideas-2.png Second Draft %}
 
 For the third panel, I started with the "open" version of the lock metaphor (**#13**), and I didn't like it all that much. The open lock has a lot of visual weight on the right, and not very much on the left, and it just feels unbalanced.
 
@@ -45,7 +45,7 @@ For the third panel, I started with the "open" version of the lock metaphor (**#
 
 **#16-18** were playing with the idea of having an access control page and a log of when the door was opened and closed. I like both of those features and I think they're necessary, but I didn't spend much time iterating on different designs for them this time around.
 
-{%img center /images/posts/2014-10-21-garage-door/interface-ideas-3.png Third Draft %}
+{%img center /images/posts/2014-10-22-design-a-garage-door-opener/interface-ideas-3.png Third Draft %}
 
 From all the previous sketches, I took my favorites and drew their open + closed states, and then added a little color for fun.
 
@@ -53,7 +53,7 @@ In **#19** you can see a "since 7:04am" under the CLOSED state. I thought it mig
 
 I also debated between whether the buttons should say "Open Now" or "Open It," and went with the latter. It's not a big deal obviously, but I thought "Open It" sounded more like a command that you'd give a computer.
 
-{%img center /images/posts/2014-10-21-garage-door/favorites.png Favorites %}
+{%img center /images/posts/2014-10-22-design-a-garage-door-opener/favorites.png Favorites %}
 
 So there you have it: my first few passes at designing an interface for a garage door opener. It's been beneficial to start with [tiny rough sketches](/tiny-page-layouts) rather than diving straight into trying to make a web page. Try applying the same technique to your designs and see how it goes!
 
