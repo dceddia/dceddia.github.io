@@ -161,10 +161,10 @@ task :rename_post, [:original_post, :new_title] do |t, args|
   new_images_url = "/images/posts/#{new_url}"
 
   puts "move #{orig_fullpath} to #{new_fullpath}"
-  #FileUtils.mv(orig_fullpath, new_fullpath)
+  `git mv #{orig_fullpath} #{new_fullpath}`
 
   puts "move #{orig_images_dir} to #{new_images_dir}"
-  #FileUtils.mv(orig_images_dir, new_images_dir)
+  `git mv #{orig_images_dir} #{new_images_dir}`
 
   puts "replacing title with '#{new_title}'"
   #puts %Q[sed -i '' -e 's/^title: ".*"$/title: "#{new_title}"/' #{new_fullpath}]
