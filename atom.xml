@@ -4,7 +4,7 @@
   <title><![CDATA[design with dave]]></title>
   <link href="http://dceddia.github.io/atom.xml" rel="self"/>
   <link href="http://dceddia.github.io/"/>
-  <updated>2014-10-14T00:25:18-04:00</updated>
+  <updated>2014-10-22T23:20:00-04:00</updated>
   <id>http://dceddia.github.io/</id>
   <author>
     <name><![CDATA[Dave Ceddia]]></name>
@@ -12,6 +12,67 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Design a Garage Door Opener]]></title>
+    <link href="http://dceddia.github.io/design-a-garage-door-opener/"/>
+    <updated>2014-10-22T23:18:10-04:00</updated>
+    <id>http://dceddia.github.io/design-a-garage-door-opener</id>
+    <content type="html"><![CDATA[<p>Remembering to close the garage door is hard. I&rsquo;m now living in the first place where I&rsquo;ve had a garage and I&rsquo;m having a difficult time making a habit of closing the door as I leave. It&rsquo;s a potentially expensive mistake to make, and it&rsquo;s also nerve-wracking being at work later and trying to remember whether I closed the door or not.</p>
+
+<p>So, I&rsquo;m building a garage door sensor + opener/closer device using a Raspberry Pi. It&rsquo;s going to have a web interface, so I thought it would be fun to get some design practice in at the same time.</p>
+
+<p>Ultimately, I want the device to be able to do a few things:</p>
+
+<ul>
+<li>Send me a text message if the door has been open too long</li>
+<li>Display whether the door is open or closed, on a web page</li>
+<li>Have a way to open or close the door from the web page</li>
+<li>Be secure enough that random people on the Internet can&rsquo;t open my garage door</li>
+</ul>
+
+
+<p>In this post, I&rsquo;ll talk about ideas for the web page design and show some sketches I&rsquo;ve come up with.</p>
+
+<p>The next post will detail the creation of the page in HTML and CSS. I&rsquo;ll post the project up on Github when it&rsquo;s all done.</p>
+
+<p>I started by drawing out some sketches of the interface. I would&rsquo;ve used pencil and paper, except I got a drawing tablet recently, so it seemed more fun to use that. Rough, hand-drawn ideas were what I was going for, though.</p>
+
+<p>A lot of these were especially bad. <strong>#1</strong> shows the important info and the action you can take, but it&rsquo;s got no character. It needed an image of some sort.</p>
+
+<p><strong>#2</strong> was my first attempt at a garage door, and some sort of 2-state button. It was here that I realized that the states should be &ldquo;Opened&rdquo; and &ldquo;Closed&rdquo; (not &ldquo;Open&rdquo; and &ldquo;Close&rdquo;) but present-tense doesn&rsquo;t really work as the text for an on/off button.</p>
+
+<p>In <strong>#3</strong>, I just doodled some garages. I&rsquo;m not very good at drawing, as you can see.</p>
+
+<p><img class="center" src="http://dceddia.github.io/images/posts/2014-10-22-design-a-garage-door-opener/interface-ideas-1.png" title="First Draft" ></p>
+
+<p>I liked <strong>#6</strong> though, and I thought it had more potential than the others. So I took that idea of having an image sandwiched by text and ran with it for the next panel.</p>
+
+<p>With these ones, I played around with different metaphors for the image. A garage door, a lock, a check/warning symbol. At the end of it, I liked the garage with the symbol above it the best, but the other ones were close behind. So hard to decide&hellip;</p>
+
+<p><img class="center" src="http://dceddia.github.io/images/posts/2014-10-22-design-a-garage-door-opener/interface-ideas-2.png" title="Second Draft" ></p>
+
+<p>For the third panel, I started with the &ldquo;open&rdquo; version of the lock metaphor (<strong>#13</strong>), and I didn&rsquo;t like it all that much. The open lock has a lot of visual weight on the right, and not very much on the left, and it just feels unbalanced.</p>
+
+<p><strong>#14</strong> and <strong>#15</strong> are a pair where I tried putting all the text above the image, and the button below. I didn&rsquo;t like it quite as much that way, so I didn&rsquo;t replicate it with any of the other images.</p>
+
+<p><strong>#16-18</strong> were playing with the idea of having an access control page and a log of when the door was opened and closed. I like both of those features and I think they&rsquo;re necessary, but I didn&rsquo;t spend much time iterating on different designs for them this time around.</p>
+
+<p><img class="center" src="http://dceddia.github.io/images/posts/2014-10-22-design-a-garage-door-opener/interface-ideas-3.png" title="Third Draft" ></p>
+
+<p>From all the previous sketches, I took my favorites and drew their open + closed states, and then added a little color for fun.</p>
+
+<p>In <strong>#19</strong> you can see a &ldquo;since 7:04am&rdquo; under the CLOSED state. I thought it might be nice to show some immediately visible info about when the door last changed state.</p>
+
+<p>I also debated between whether the buttons should say &ldquo;Open Now&rdquo; or &ldquo;Open It,&rdquo; and went with the latter. It&rsquo;s not a big deal obviously, but I thought &ldquo;Open It&rdquo; sounded more like a command that you&rsquo;d give a computer.</p>
+
+<p><img class="center" src="http://dceddia.github.io/images/posts/2014-10-22-design-a-garage-door-opener/favorites.png" title="Favorites" ></p>
+
+<p>So there you have it: my first few passes at designing an interface for a garage door opener. It&rsquo;s been beneficial to start with <a href="http://dceddia.github.io/tiny-page-layouts">tiny rough sketches</a> rather than diving straight into trying to make a web page. Try applying the same technique to your designs and see how it goes!</p>
+
+<p>And of course, if you have any ideas for a garage door opener, please leave a comment. It&rsquo;s a wickedly simple app, but I&rsquo;m sure there are plenty of other directions it could go. I&rsquo;d love to hear yours.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Story Matters]]></title>
@@ -1215,7 +1276,7 @@
 
 <p>I hope this Carbon Copy walkthrough has been fun, and motivates you to try your hand at copying other designs out on the web. My goal is to provide you with design practice exercises that’ll increase your skill as well as mine.</p>
 
-<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#x6d;&#97;&#105;&#x6c;&#116;&#x6f;&#58;&#100;&#97;&#118;&#x65;&#x40;&#x64;&#101;&#115;&#x69;&#x67;&#x6e;&#x77;&#105;&#x74;&#x68;&#x64;&#x61;&#118;&#x65;&#x2e;&#99;&#111;&#x6d;">&#x64;&#97;&#x76;&#x65;&#x40;&#100;&#101;&#115;&#105;&#x67;&#110;&#119;&#105;&#x74;&#104;&#100;&#97;&#118;&#101;&#x2e;&#99;&#x6f;&#109;</a>). I&rsquo;d love to hear what you think.</p>
+<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#109;&#x61;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#100;&#x61;&#118;&#101;&#x40;&#100;&#101;&#115;&#105;&#103;&#x6e;&#119;&#105;&#116;&#x68;&#x64;&#97;&#118;&#x65;&#x2e;&#x63;&#111;&#x6d;">&#100;&#97;&#x76;&#101;&#64;&#x64;&#x65;&#x73;&#x69;&#x67;&#x6e;&#x77;&#105;&#x74;&#x68;&#x64;&#x61;&#118;&#101;&#x2e;&#99;&#x6f;&#109;</a>). I&rsquo;d love to hear what you think.</p>
 ]]></content>
   </entry>
   
