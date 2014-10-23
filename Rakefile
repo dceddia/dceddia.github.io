@@ -122,6 +122,52 @@ task :new_post, :title do |t, args|
   end
 end
 
+# usage rake rename_post[original-post-name, "New Post Name"]
+desc "Rename a post and its associated images directory. Updates the time, Title and image links in the post."
+task :rename_post, [:original_post, :new_title] do |t, args|
+  if !args.original_post || !args.new_title
+    abort("Supply an original post name, and a new title")
+  end
+
+  original_post = args.original_post
+  new_title = args.new_title
+
+  search = "#{source_dir}/#{posts_dir}/*-#{original_post.to_url}.#{new_post_ext}"
+  matching_posts = Dir.glob(search)
+
+  # Give up if zero or too many posts are found
+  if matching_posts.length > 1
+    puts "Found #{matching_posts.length} matching posts! Cannot continue."
+    matching_posts.each do |name|
+      puts "    #{name}"
+    end
+    abort("rake aborted!")
+  elsif matching_posts.length == 0
+    puts "Found no matching posts for pattern '#{search}' -- cannot continue."
+    abort("rake aborted!")
+  end
+
+  # If one was found, start renaming it
+  orig_fullpath = matching_posts.first
+  orig_filename = File.basename(matching_posts.first)
+  orig_url = File.basename(matching_posts.first, ".#{new_post_ext}")
+  new_fullpath = "#{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{new_title.to_url}.#{new_post_ext}"
+  new_filename = File.basename(new_fullpath)
+  new_url = File.basename(new_fullpath, ".#{new_post_ext}")
+
+  orig_images_dir = "#{source_dir}/images/posts/#{orig_url}"
+  new_images_dir = "#{source_dir}/images/posts/#{new_url}"
+
+  puts "move #{orig_fullpath} to #{new_fullpath}"
+  puts "move #{orig_images_dir} to #{new_images_dir}"
+  puts "replacing title with '#{new_title}'"
+  `sed -i -e 's/^title: ".*"$/title: "#{new_title}"/' #{new_fullpath}`
+  puts "replacing image links"
+  `sed -i -e 's/#{orig_images_dir}/#{new_images_dir}/' #{new_fullpath}`
+  puts "updating date"
+  `sed -i -e 's/^date: .*$/date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}/' #{new_fullpath}`
+end
+
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")
 desc "Create a new page in #{source_dir}/(filename)/index.#{new_page_ext}"
 task :new_page, :filename do |t, args|
