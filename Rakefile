@@ -156,22 +156,27 @@ task :rename_post, [:original_post, :new_title] do |t, args|
   new_url = File.basename(new_fullpath, ".#{new_post_ext}")
 
   orig_images_dir = "#{source_dir}/images/posts/#{orig_url}"
+  orig_images_url = "/images/posts/#{orig_url}"
   new_images_dir = "#{source_dir}/images/posts/#{new_url}"
+  new_images_url = "/images/posts/#{new_url}"
 
   puts "move #{orig_fullpath} to #{new_fullpath}"
-  FileUtils.mv(orig_fullpath, new_fullpath)
+  #FileUtils.mv(orig_fullpath, new_fullpath)
 
   puts "move #{orig_images_dir} to #{new_images_dir}"
-  FileUtils.mv(orig_images_dir, new_images_dir)
+  #FileUtils.mv(orig_images_dir, new_images_dir)
 
   puts "replacing title with '#{new_title}'"
-  `sed -i -e 's/^title: ".*"$/title: "#{new_title}"/' #{new_fullpath}`
+  #puts %Q[sed -i '' -e 's/^title: ".*"$/title: "#{new_title}"/' #{new_fullpath}]
+  `sed -i '' -e 's/^title: ".*"$/title: "#{new_title}"/' #{new_fullpath}`
 
   puts "replacing image links"
-  `sed -i -e 's~#{orig_images_dir}~#{new_images_dir}~' #{new_fullpath}`
+  #puts %Q[sed -i '' -e 's~#{orig_images_url}~#{new_images_url}~g' #{new_fullpath}]
+  `sed -i '' -e 's~#{orig_images_url}~#{new_images_url}~g' #{new_fullpath}`
 
   puts "updating date"
-  `sed -i -e 's/^date: .*$/date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}/' #{new_fullpath}`
+  #puts %Q[sed -i '' -e 's/^date: .*$/date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}/' #{new_fullpath}]
+  `sed -i '' -e 's/^date: .*$/date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}/' #{new_fullpath}`
 end
 
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")
