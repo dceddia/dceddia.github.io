@@ -159,11 +159,17 @@ task :rename_post, [:original_post, :new_title] do |t, args|
   new_images_dir = "#{source_dir}/images/posts/#{new_url}"
 
   puts "move #{orig_fullpath} to #{new_fullpath}"
+  FileUtils.mv(orig_fullpath, new_fullpath)
+
   puts "move #{orig_images_dir} to #{new_images_dir}"
+  FileUtils.mv(orig_images_dir, new_images_dir)
+
   puts "replacing title with '#{new_title}'"
   `sed -i -e 's/^title: ".*"$/title: "#{new_title}"/' #{new_fullpath}`
+
   puts "replacing image links"
-  `sed -i -e 's/#{orig_images_dir}/#{new_images_dir}/' #{new_fullpath}`
+  `sed -i -e 's~#{orig_images_dir}~#{new_images_dir}~' #{new_fullpath}`
+
   puts "updating date"
   `sed -i -e 's/^date: .*$/date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}/' #{new_fullpath}`
 end
