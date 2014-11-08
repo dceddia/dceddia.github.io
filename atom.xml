@@ -4,7 +4,7 @@
   <title><![CDATA[design with dave]]></title>
   <link href="http://dceddia.github.io/atom.xml" rel="self"/>
   <link href="http://dceddia.github.io/"/>
-  <updated>2014-11-08T00:34:06-05:00</updated>
+  <updated>2014-11-08T00:35:44-05:00</updated>
   <id>http://dceddia.github.io/</id>
   <author>
     <name><![CDATA[Dave Ceddia]]></name>
@@ -19,6 +19,9 @@
     <updated>2014-11-06T23:45:50-05:00</updated>
     <id>http://dceddia.github.io/garage-door-opener-part-2</id>
     <content type="html"><![CDATA[<p>Last time I wrote, I was working on <a href="http://dceddia.github.io/design-a-garage-door-opener">some rough sketches for a garage door opener</a> I&rsquo;m building for myself. Since then, I&rsquo;ve been working on building the device and recently got some time to work on the web interface.</p>
+
+<!--more-->
+
 
 <p>The first couple versions were similar to the drawings I posted last time:</p>
 
@@ -82,6 +85,9 @@
     <content type="html"><![CDATA[<p>Remembering to close the garage door is hard. I&rsquo;m now living in the first place where I&rsquo;ve had a garage and I&rsquo;m having a difficult time making a habit of closing the door as I leave. It&rsquo;s a potentially expensive mistake to make, and it&rsquo;s also nerve-wracking being at work later and trying to remember whether I closed the door or not.</p>
 
 <p>So, I&rsquo;m building a garage door sensor + opener/closer device using a Raspberry Pi. It&rsquo;s going to have a web interface, so I thought it would be fun to get some design practice in at the same time.</p>
+
+<!--more-->
+
 
 <p>Ultimately, I want the device to be able to do a few things:</p>
 
@@ -1337,7 +1343,7 @@
 
 <p>I hope this Carbon Copy walkthrough has been fun, and motivates you to try your hand at copying other designs out on the web. My goal is to provide you with design practice exercises that’ll increase your skill as well as mine.</p>
 
-<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#111;&#58;&#x64;&#97;&#118;&#101;&#x40;&#100;&#101;&#x73;&#105;&#103;&#110;&#x77;&#105;&#x74;&#104;&#x64;&#97;&#x76;&#101;&#x2e;&#99;&#111;&#x6d;">&#x64;&#x61;&#118;&#x65;&#x40;&#100;&#x65;&#x73;&#x69;&#103;&#x6e;&#x77;&#x69;&#116;&#104;&#100;&#97;&#118;&#x65;&#x2e;&#99;&#111;&#109;</a>). I&rsquo;d love to hear what you think.</p>
+<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#109;&#97;&#105;&#x6c;&#x74;&#111;&#x3a;&#x64;&#x61;&#118;&#101;&#x40;&#x64;&#101;&#115;&#x69;&#103;&#x6e;&#119;&#x69;&#116;&#104;&#100;&#97;&#118;&#101;&#46;&#x63;&#x6f;&#x6d;">&#100;&#97;&#x76;&#101;&#x40;&#100;&#101;&#x73;&#x69;&#103;&#x6e;&#x77;&#x69;&#116;&#x68;&#100;&#x61;&#x76;&#x65;&#x2e;&#x63;&#x6f;&#109;</a>). I&rsquo;d love to hear what you think.</p>
 ]]></content>
   </entry>
   

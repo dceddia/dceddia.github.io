@@ -148,59 +148,12 @@
 
   <div class="entry-content"><p>Last time I wrote, I was working on <a href="/design-a-garage-door-opener">some rough sketches for a garage door opener</a> I&rsquo;m building for myself. Since then, I&rsquo;ve been working on building the device and recently got some time to work on the web interface.</p>
 
-<p>The first couple versions were similar to the drawings I posted last time:</p>
-
-<p><img src="/images/posts/2014-11-06-garage-door-opener-part-2/old_open.png" width="300" title="OPEN" >
-<img src="/images/posts/2014-11-06-garage-door-opener-part-2/old_closed.png" width="300" title="CLOSED" ></p>
-
-<p>But the design felt kind of&hellip; boring. It was clean and flat, I suppose, but it didn&rsquo;t have any character. And also, the colors were pretty bad, looking back on it.</p>
-
-<p>So I went out in search of some fonts that might spice it up, and in my Googling I stumbled upon a photo of one of those imitation parking space signs. You know the type. &ldquo;WARNING: Get Off My Lawn, You Dirty Kids.&rdquo; Or whatever is fun to put on signs these days.</p>
-
-<p>And a flash of inspriation came to me: I could design the page to look like a road sign! Like the kind you see on a highway telling you about the exit you&rsquo;re about to take by mistake. Like this one:</p>
-
-<p><img class="center" src="/images/posts/2014-11-06-garage-door-opener-part-2/highway-sign-making.jpg" title="A Highway Sign" ></p>
-
-<p>So I went in search of a typeface (&ldquo;road sign font&rdquo;) and found this page: <a href="http://www.fontspace.com/category/highway">http://www.fontspace.com/category/highway</a> &ndash; And of the choices there, the one that I liked the best was Roadway. It seemed unmistakably like a road sign to me, even though it&rsquo;s not the typeface actually used on highway signs. Those highway fonts are more about legibility anyway, and this page is going to be sitting 4&#8221; away from my face on a phone screen. Should be fine.</p>
-
-<p>I took the green and yellow colors from signs in Google Images, and armed with Roadway and a frightening amount of time tweaking CSS shadows and border radiuses, came out with these:</p>
-
-<p><img src="/images/posts/2014-11-06-garage-door-opener-part-2/closed.png" width="250" title="CLOSED" >
-<img src="/images/posts/2014-11-06-garage-door-opener-part-2/opening.png" width="250" title="OPENING" >
-<img src="/images/posts/2014-11-06-garage-door-opener-part-2/open.png" width="250" title="OPEN" >
-<img src="/images/posts/2014-11-06-garage-door-opener-part-2/closing.png" width="250" title="CLOSING" >
-<img src="/images/posts/2014-11-06-garage-door-opener-part-2/stopped.png" width="250" title="STOPPED" >
-<img src="/images/posts/2014-11-06-garage-door-opener-part-2/unknown.png" width="250" title="UNKNOWN" ></p>
-
-<p>Here are a few things I learned along the way with this project.</p>
-
-<h3>Try the Extremes</h3>
-
-<p>One thing I realized is that it&rsquo;s easy to get into a routine of tweaking the thing you have in front of you. Make the box shadow 2px larger, or 1 shade darker. Nudge the title 0.17em down. These little tweaks usually do improve the situation a little bit, but they&rsquo;re not groundbreaking. Nudging some element 2 pixels to the left doesn&rsquo;t make you go &ldquo;Wow, I like this design a LOT better than the last one!&rdquo;</p>
-
-<p>To come up with something radically different, try tweaking things by large amounts instead of tiny amounts. Make something much much darker or lighter, or try doubling the font size. Maybe it&rsquo;ll look ridiculous, but who knows? It&rsquo;s hard to know what your eye will like until you actually <em>see</em> it.</p>
-
-<p>And if you still don&rsquo;t like it, go search for some more inspiration and play around with a totally new design idea. I&rsquo;m much happier with the road sign concept for this garage door page than I ever would&rsquo;ve been tweaking pixels on the first version.</p>
-
-<h3>Side-by-Side</h3>
-
-<p>Looking at all the different variants of a design can bring out aspects that wouldn&rsquo;t appear you were just looking at one image. In this case looking at all of the different door states, each with its own icon and text, made me realise that the word &ldquo;IS&rdquo; looks redundant. Maybe I&rsquo;ll try taking it out and then seeing how it looks in the individual versions.</p>
-
-<h3>Before &amp; After</h3>
-
-<p>Go back and look at the original versions of your design once in a while. I hadn&rsquo;t seen the first version since probably a week ago &ndash; I added Bootstrap, which broke some styling, and I just left it broken as I worked on the code and electronics to open and close the door.</p>
-
-<p>When I checked out the code for that old design today to take these screenshots, I was amazed to see what me-from-last-week thought was a pretty cool design. It&rsquo;s good to review your old work on occasion to see the progress you&rsquo;ve made.</p>
-
-<h3>What Next?</h3>
-
-<p>Even now, looking at the new screenshots, I still want to change things. I&rsquo;m not so sure I want to leave the word &ldquo;IS&rdquo; in there. The &ldquo;CANCEL&rdquo; button should have some icons, or maybe it should be red instead of yellow. I still need to animate the &ldquo;CLOSING&rdquo; state so it matches the fancy &ldquo;OPENING&rdquo; one.</p>
-
-<p>That&rsquo;s ok. It&rsquo;s never easy to stop tweaking something and call it &ldquo;good enough,&rdquo; but at some point it&rsquo;s important to move on to the next thing. Which in this case, is wiring up the circuit and installing it on the garage door.</p>
-
-<p>And hitting &lsquo;Publish&rsquo; on this blog post.</p>
 </div>
   
+  
+    <footer>
+      <a rel="full-article" href="/garage-door-opener-part-2/">Read on &rarr;</a>
+    </footer>
   
 
 
@@ -238,57 +191,12 @@
 
 <p>So, I&rsquo;m building a garage door sensor + opener/closer device using a Raspberry Pi. It&rsquo;s going to have a web interface, so I thought it would be fun to get some design practice in at the same time.</p>
 
-<p>Ultimately, I want the device to be able to do a few things:</p>
-
-<ul>
-<li>Send me a text message if the door has been open too long</li>
-<li>Display whether the door is open or closed, on a web page</li>
-<li>Have a way to open or close the door from the web page</li>
-<li>Be secure enough that random people on the Internet can&rsquo;t open my garage door</li>
-</ul>
-
-
-<p>In this post, I&rsquo;ll talk about ideas for the web page design and show some sketches I&rsquo;ve come up with.</p>
-
-<p>The next post will detail the creation of the page in HTML and CSS. I&rsquo;ll post the project up on Github when it&rsquo;s all done.</p>
-
-<p>I started by drawing out some sketches of the interface. I would&rsquo;ve used pencil and paper, except I got a drawing tablet recently, so it seemed more fun to use that. Rough, hand-drawn ideas were what I was going for, though.</p>
-
-<p>A lot of these were especially bad. <strong>#1</strong> shows the important info and the action you can take, but it&rsquo;s got no character. It needed an image of some sort.</p>
-
-<p><strong>#2</strong> was my first attempt at a garage door, and some sort of 2-state button. It was here that I realized that the states should be &ldquo;Opened&rdquo; and &ldquo;Closed&rdquo; (not &ldquo;Open&rdquo; and &ldquo;Close&rdquo;) but present-tense doesn&rsquo;t really work as the text for an on/off button.</p>
-
-<p>In <strong>#3</strong>, I just doodled some garages. I&rsquo;m not very good at drawing, as you can see.</p>
-
-<p><img class="center" src="/images/posts/2014-10-22-design-a-garage-door-opener/interface-ideas-1.png" title="First Draft" ></p>
-
-<p>I liked <strong>#6</strong> though, and I thought it had more potential than the others. So I took that idea of having an image sandwiched by text and ran with it for the next panel.</p>
-
-<p>With these ones, I played around with different metaphors for the image. A garage door, a lock, a check/warning symbol. At the end of it, I liked the garage with the symbol above it the best, but the other ones were close behind. So hard to decide&hellip;</p>
-
-<p><img class="center" src="/images/posts/2014-10-22-design-a-garage-door-opener/interface-ideas-2.png" title="Second Draft" ></p>
-
-<p>For the third panel, I started with the &ldquo;open&rdquo; version of the lock metaphor (<strong>#13</strong>), and I didn&rsquo;t like it all that much. The open lock has a lot of visual weight on the right, and not very much on the left, and it just feels unbalanced.</p>
-
-<p><strong>#14</strong> and <strong>#15</strong> are a pair where I tried putting all the text above the image, and the button below. I didn&rsquo;t like it quite as much that way, so I didn&rsquo;t replicate it with any of the other images.</p>
-
-<p><strong>#16-18</strong> were playing with the idea of having an access control page and a log of when the door was opened and closed. I like both of those features and I think they&rsquo;re necessary, but I didn&rsquo;t spend much time iterating on different designs for them this time around.</p>
-
-<p><img class="center" src="/images/posts/2014-10-22-design-a-garage-door-opener/interface-ideas-3.png" title="Third Draft" ></p>
-
-<p>From all the previous sketches, I took my favorites and drew their open + closed states, and then added a little color for fun.</p>
-
-<p>In <strong>#19</strong> you can see a &ldquo;since 7:04am&rdquo; under the CLOSED state. I thought it might be nice to show some immediately visible info about when the door last changed state.</p>
-
-<p>I also debated between whether the buttons should say &ldquo;Open Now&rdquo; or &ldquo;Open It,&rdquo; and went with the latter. It&rsquo;s not a big deal obviously, but I thought &ldquo;Open It&rdquo; sounded more like a command that you&rsquo;d give a computer.</p>
-
-<p><img class="center" src="/images/posts/2014-10-22-design-a-garage-door-opener/favorites.png" title="Favorites" ></p>
-
-<p>So there you have it: my first few passes at designing an interface for a garage door opener. It&rsquo;s been beneficial to start with <a href="/tiny-page-layouts">tiny rough sketches</a> rather than diving straight into trying to make a web page. Try applying the same technique to your designs and see how it goes!</p>
-
-<p>And of course, if you have any ideas for a garage door opener, please leave a comment. It&rsquo;s a wickedly simple app, but I&rsquo;m sure there are plenty of other directions it could go. I&rsquo;d love to hear yours.</p>
 </div>
   
+  
+    <footer>
+      <a rel="full-article" href="/design-a-garage-door-opener/">Read on &rarr;</a>
+    </footer>
   
 
 
