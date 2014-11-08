@@ -40,10 +40,10 @@
     
   
     
+  
+    
       <link href='http://fonts.googleapis.com/css?family=Spirax|Audiowide|Sancreek|Codystar|Flamenco|Graduate|Press+Start+2P' rel='stylesheet' type='text/css'>
 
-    
-  
     
   
     
@@ -117,6 +117,94 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/garage-door-opener-part-2/">Garage Door Opener: Part 2</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-11-06T23:45:50-05:00" pubdate data-updated="true">Nov 6<sup>th</sup>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Last time I wrote, I was working on <a href="/design-a-garage-door-opener">some rough sketches for a garage door opener</a> I&rsquo;m building for myself. Since then, I&rsquo;ve been working on building the device and recently got some time to work on the web interface.</p>
+
+<p>The first couple versions were similar to the drawings I posted last time:</p>
+
+<p><img src="/images/posts/2014-11-06-garage-door-opener-part-2/old_open.png" width="300" title="OPEN" >
+<img src="/images/posts/2014-11-06-garage-door-opener-part-2/old_closed.png" width="300" title="CLOSED" ></p>
+
+<p>But the design felt kind of&hellip; boring. It was clean and flat, I suppose, but it didn&rsquo;t have any character. And also, the colors were pretty bad, looking back on it.</p>
+
+<p>So I went out in search of some fonts that might spice it up, and in my Googling I stumbled upon a photo of one of those imitation parking space signs. You know the type. &ldquo;WARNING: Get Off My Lawn, You Dirty Kids.&rdquo; Or whatever is fun to put on signs these days.</p>
+
+<p>And a flash of inspriation came to me: I could design the page to look like a road sign! Like the kind you see on a highway telling you about the exit you&rsquo;re about to take by mistake. Like this one:</p>
+
+<p><img class="center" src="/images/posts/2014-11-06-garage-door-opener-part-2/highway-sign-making.jpg" title="A Highway Sign" ></p>
+
+<p>So I went in search of a typeface (&ldquo;road sign font&rdquo;) and found this page: <a href="http://www.fontspace.com/category/highway">http://www.fontspace.com/category/highway</a> &ndash; And of the choices there, the one that I liked the best was Roadway. It seemed unmistakably like a road sign to me, even though it&rsquo;s not the typeface actually used on highway signs. Those highway fonts are more about legibility anyway, and this page is going to be sitting 4&#8221; away from my face on a phone screen. Should be fine.</p>
+
+<p>I took the green and yellow colors from signs in Google Images, and armed with Roadway and a frightening amount of time tweaking CSS shadows and border radiuses, came out with these:</p>
+
+<p><img src="/images/posts/2014-11-06-garage-door-opener-part-2/closed.png" width="250" title="CLOSED" >
+<img src="/images/posts/2014-11-06-garage-door-opener-part-2/opening.png" width="250" title="OPENING" >
+<img src="/images/posts/2014-11-06-garage-door-opener-part-2/open.png" width="250" title="OPEN" >
+<img src="/images/posts/2014-11-06-garage-door-opener-part-2/closing.png" width="250" title="CLOSING" >
+<img src="/images/posts/2014-11-06-garage-door-opener-part-2/stopped.png" width="250" title="STOPPED" >
+<img src="/images/posts/2014-11-06-garage-door-opener-part-2/unknown.png" width="250" title="UNKNOWN" ></p>
+
+<p>Here are a few things I learned along the way with this project.</p>
+
+<h3>Try the Extremes</h3>
+
+<p>One thing I realized is that it&rsquo;s easy to get into a routine of tweaking the thing you have in front of you. Make the box shadow 2px larger, or 1 shade darker. Nudge the title 0.17em down. These little tweaks usually do improve the situation a little bit, but they&rsquo;re not groundbreaking. Nudging some element 2 pixels to the left doesn&rsquo;t make you go &ldquo;Wow, I like this design a LOT better than the last one!&rdquo;</p>
+
+<p>To come up with something radically different, try tweaking things by large amounts instead of tiny amounts. Make something much much darker or lighter, or try doubling the font size. Maybe it&rsquo;ll look ridiculous, but who knows? It&rsquo;s hard to know what your eye will like until you actually <em>see</em> it.</p>
+
+<p>And if you still don&rsquo;t like it, go search for some more inspiration and play around with a totally new design idea. I&rsquo;m much happier with the road sign concept for this garage door page than I ever would&rsquo;ve been tweaking pixels on the first version.</p>
+
+<h3>Side-by-Side</h3>
+
+<p>Looking at all the different variants of a design can bring out aspects that wouldn&rsquo;t appear you were just looking at one image. In this case looking at all of the different door states, each with its own icon and text, made me realise that the word &ldquo;IS&rdquo; looks redundant. Maybe I&rsquo;ll try taking it out and then seeing how it looks in the individual versions.</p>
+
+<h3>Before &amp; After</h3>
+
+<p>Go back and look at the original versions of your design once in a while. I hadn&rsquo;t seen the first version since probably a week ago &ndash; I added Bootstrap, which broke some styling, and I just left it broken as I worked on the code and electronics to open and close the door.</p>
+
+<p>When I checked out the code for that old design today to take these screenshots, I was amazed to see what me-from-last-week thought was a pretty cool design. It&rsquo;s good to review your old work on occasion to see the progress you&rsquo;ve made.</p>
+
+<h3>What Next?</h3>
+
+<p>Even now, looking at the new screenshots, I still want to change things. I&rsquo;m not so sure I want to leave the word &ldquo;IS&rdquo; in there. The &ldquo;CANCEL&rdquo; button should have some icons, or maybe it should be red instead of yellow. I still need to animate the &ldquo;CLOSING&rdquo; state so it matches the fancy &ldquo;OPENING&rdquo; one.</p>
+
+<p>That&rsquo;s ok. It&rsquo;s never easy to stop tweaking something and call it &ldquo;good enough,&rdquo; but at some point it&rsquo;s important to move on to the next thing. Which in this case, is wiring up the circuit and installing it on the garage door.</p>
+
+<p>And hitting &lsquo;Publish&rsquo; on this blog post.</p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -548,52 +636,9 @@
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/improve-your-design-skills/">Improve Your Design Skills</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-08-11T22:35:15-04:00" pubdate data-updated="true">Aug 11<sup>th</sup>, 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>If you’re a software developer, like I am, you may have noticed how apps and websites have become more and more design-heavy over the years. Maybe you’ve thought to yourself, &ldquo;I could do that!&rdquo; After all, you’ve got an eye for good design, right? You can tell the good from the bad. You know to avoid Comic Sans, and not to put solid red text on a solid green background, and that pretty colors and big fonts make everything look great.</p>
-
-<p>Maybe you’ve even tried your hand at imitating the designs you see. It’s hard, though, isn’t it? Your own work never comes out looking as good as something produced by a &ldquo;real&rdquo; designer, and you become disheartened by how difficult it is. You go back to writing code. You’re good at that. It’s what you get paid for. But despite that, there’s still a feeling inside that you could be a designer. You just need to learn.</p>
-
-<p>I’ve been there too. In fact, I still am. That’s why I started this site: to help developers and other technically-minded people learn a thing or two about design &ndash; and while I’m at it, improve my own design skills. Let’s take a look at how we’ll grow together.</p>
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/improve-your-design-skills/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
   <div class="pagination">
+    
+      <a class="prev" href="/posts/2">&larr; Older</a>
     
     <a href="/blog/archives">Blog Archives</a>
     
@@ -604,6 +649,10 @@
     <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/garage-door-opener-part-2/">Garage Door Opener: Part 2</a>
+      </li>
     
       <li class="post">
         <a href="/design-a-garage-door-opener/">Design a Garage Door Opener</a>
@@ -619,10 +668,6 @@
     
       <li class="post">
         <a href="/choosing-colors/">Basics: Choosing Colors</a>
-      </li>
-    
-      <li class="post">
-        <a href="/how-to-choose-a-great-font/">How to Choose a Great Font</a>
       </li>
     
   </ul>
