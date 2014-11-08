@@ -4,7 +4,7 @@
   <title><![CDATA[design with dave]]></title>
   <link href="http://dceddia.github.io/atom.xml" rel="self"/>
   <link href="http://dceddia.github.io/"/>
-  <updated>2014-11-08T00:35:44-05:00</updated>
+  <updated>2014-11-08T00:41:58-05:00</updated>
   <id>http://dceddia.github.io/</id>
   <author>
     <name><![CDATA[Dave Ceddia]]></name>
@@ -23,6 +23,8 @@
 <!--more-->
 
 
+<h3>Out with the old&hellip;</h3>
+
 <p>The first couple versions were similar to the drawings I posted last time:</p>
 
 <p><img src="http://dceddia.github.io/images/posts/2014-11-06-garage-door-opener-part-2/old_open.png" width="300" title="OPEN" >
@@ -34,9 +36,11 @@
 
 <p>And a flash of inspriation came to me: I could design the page to look like a road sign! Like the kind you see on a highway telling you about the exit you&rsquo;re about to take by mistake. Like this one:</p>
 
-<p><img class="center" src="http://dceddia.github.io/images/posts/2014-11-06-garage-door-opener-part-2/highway-sign-making.jpg" title="A Highway Sign" ></p>
+<p><span class='caption-wrapper center'><img class='caption' src='http://dceddia.github.io/images/posts/2014-11-06-garage-door-opener-part-2/highway-sign-making.jpg' width='' height='' title='You never really grasp the size of a road sign until you're standing on one.'><span class='caption-text'>You never really grasp the size of a road sign until you&rsquo;re standing on one.</span></span></p>
 
-<p>So I went in search of a typeface (&ldquo;road sign font&rdquo;) and found this page: <a href="http://www.fontspace.com/category/highway">http://www.fontspace.com/category/highway</a> &ndash; And of the choices there, the one that I liked the best was Roadway. It seemed unmistakably like a road sign to me, even though it&rsquo;s not the typeface actually used on highway signs. Those highway fonts are more about legibility anyway, and this page is going to be sitting 4&#8221; away from my face on a phone screen. Should be fine.</p>
+<h3>&hellip;and in with the new</h3>
+
+<p>With the new idea in hand, I went looking for a suitable typeface (&ldquo;road sign font&rdquo;) and found this page: <a href="http://www.fontspace.com/category/highway">http://www.fontspace.com/category/highway</a> &ndash; of the choices there, the one that I liked the best was Roadway. It seemed unmistakably like a road sign to me, even though it&rsquo;s not the typeface actually used on highway signs. Those highway fonts are more about legibility anyway, and this page is going to be sitting 4&#8221; away from my face on a phone screen. Should be fine.</p>
 
 <p>I took the green and yellow colors from signs in Google Images, and armed with Roadway and a frightening amount of time tweaking CSS shadows and border radiuses, came out with these:</p>
 
@@ -1343,7 +1347,7 @@
 
 <p>I hope this Carbon Copy walkthrough has been fun, and motivates you to try your hand at copying other designs out on the web. My goal is to provide you with design practice exercises that’ll increase your skill as well as mine.</p>
 
-<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#109;&#97;&#105;&#x6c;&#x74;&#111;&#x3a;&#x64;&#x61;&#118;&#101;&#x40;&#x64;&#101;&#115;&#x69;&#103;&#x6e;&#119;&#x69;&#116;&#104;&#100;&#97;&#118;&#101;&#46;&#x63;&#x6f;&#x6d;">&#100;&#97;&#x76;&#101;&#x40;&#100;&#101;&#x73;&#x69;&#103;&#x6e;&#x77;&#x69;&#116;&#x68;&#100;&#x61;&#x76;&#x65;&#x2e;&#x63;&#x6f;&#109;</a>). I&rsquo;d love to hear what you think.</p>
+<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#x6d;&#97;&#105;&#108;&#x74;&#x6f;&#x3a;&#100;&#97;&#118;&#x65;&#x40;&#100;&#101;&#x73;&#x69;&#x67;&#x6e;&#119;&#x69;&#116;&#x68;&#x64;&#97;&#x76;&#x65;&#46;&#x63;&#x6f;&#x6d;">&#x64;&#97;&#118;&#101;&#64;&#x64;&#x65;&#x73;&#105;&#x67;&#110;&#x77;&#x69;&#116;&#x68;&#100;&#x61;&#x76;&#x65;&#46;&#99;&#x6f;&#x6d;</a>). I&rsquo;d love to hear what you think.</p>
 ]]></content>
   </entry>
   
