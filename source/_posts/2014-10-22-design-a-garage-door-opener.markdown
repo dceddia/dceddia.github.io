@@ -12,6 +12,8 @@ Remembering to close the garage door is hard. I'm now living in the first place 
 
 So, I'm building a garage door sensor + opener/closer device using a Raspberry Pi. It's going to have a web interface, so I thought it would be fun to get some design practice in at the same time.
 
+<!--more-->
+
 Ultimately, I want the device to be able to do a few things:
 
 - Send me a text message if the door has been open too long

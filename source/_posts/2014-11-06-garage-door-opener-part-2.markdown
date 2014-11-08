@@ -10,6 +10,8 @@ description:
 
 Last time I wrote, I was working on [some rough sketches for a garage door opener](/design-a-garage-door-opener) I'm building for myself. Since then, I've been working on building the device and recently got some time to work on the web interface.
 
+<!--more-->
+
 The first couple versions were similar to the drawings I posted last time:
 
 {%img /images/posts/2014-11-06-garage-door-opener-part-2/old_open.png 300 OPEN %}
