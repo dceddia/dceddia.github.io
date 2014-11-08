@@ -12,6 +12,8 @@ Last time I wrote, I was working on [some rough sketches for a garage door opene
 
 <!--more-->
 
+### Out with the old...
+
 The first couple versions were similar to the drawings I posted last time:
 
 {%img /images/posts/2014-11-06-garage-door-opener-part-2/old_open.png 300 OPEN %}
@@ -23,9 +25,11 @@ So I went out in search of some fonts that might spice it up, and in my Googling
 
 And a flash of inspriation came to me: I could design the page to look like a road sign! Like the kind you see on a highway telling you about the exit you're about to take by mistake. Like this one:
 
-{%img center /images/posts/2014-11-06-garage-door-opener-part-2/highway-sign-making.jpg A Highway Sign %}
+{%imgcap center /images/posts/2014-11-06-garage-door-opener-part-2/highway-sign-making.jpg You never really grasp the size of a road sign until you're standing on one. %}
 
-So I went in search of a typeface ("road sign font") and found this page: http://www.fontspace.com/category/highway -- And of the choices there, the one that I liked the best was Roadway. It seemed unmistakably like a road sign to me, even though it's not the typeface actually used on highway signs. Those highway fonts are more about legibility anyway, and this page is going to be sitting 4" away from my face on a phone screen. Should be fine.
+### ...and in with the new
+
+With the new idea in hand, I went looking for a suitable typeface ("road sign font") and found this page: http://www.fontspace.com/category/highway -- of the choices there, the one that I liked the best was Roadway. It seemed unmistakably like a road sign to me, even though it's not the typeface actually used on highway signs. Those highway fonts are more about legibility anyway, and this page is going to be sitting 4" away from my face on a phone screen. Should be fine.
 
 I took the green and yellow colors from signs in Google Images, and armed with Roadway and a frightening amount of time tweaking CSS shadows and border radiuses, came out with these:
 
