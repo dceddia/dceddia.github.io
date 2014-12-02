@@ -5,14 +5,14 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Creating an Icon in Photoshop - design with dave</title>
+  <title>Exercise: Redesign a Twitter App - design with dave</title>
   <meta name="author" content="Dave Ceddia">
 
   
-  <meta name="description" content="Create a Retweet icon in Photoshop using the Pen tool and some built-in shapes." />
+  <meta name="description" content="I'm a developer working to improve my design skills. Learn along with me! Get better at design with consistent practice and weekly exercises." />
 
   
-  <meta name="keywords" content="photoshop,pen tool,retweet,icon design,create icon,custom icon" />
+  <meta name="keywords" content="developers,design,web design,software,website design,better design" />
 
   <!-- http://t.co/dKP3o1e -->
   <meta name="HandheldFriendly" content="True">
@@ -20,7 +20,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://dceddia.github.io/creating-an-icon-in-photoshop">
+  <link rel="canonical" href="http://dceddia.github.io/redesign-twitter-app">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="design with dave" type="application/atom+xml">
@@ -95,7 +95,7 @@
   
   <header>
     
-      <h1 class="entry-title">Creating an Icon in Photoshop</h1>
+      <h1 class="entry-title">Exercise: Redesign a Twitter App</h1>
     
     
       <p class="meta">
@@ -111,30 +111,60 @@
   
 
 
-<time datetime="2014-10-03T00:49:55-04:00" pubdate data-updated="true">Oct 3<sup>rd</sup>, 2014</time>
+<time datetime="2014-12-02T00:20:51-05:00" pubdate data-updated="true">Dec 2<sup>nd</sup>, 2014</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>I recently started working through Nathan Barry&rsquo;s <a href="http://nathanbarry.com/photoshop">Photoshop for Web Design</a> course, and it&rsquo;s been a lot of fun. I&rsquo;ll have a full review coming soon, once I finish up, but in the meantime I thought it&rsquo;d be fun to make a video using some of the stuff I&rsquo;ve learned.</p>
+<div class="entry-content"><p>This morning, I saw that <a href="http://nathanbarry.com">Nathan Barry</a> posted a <a href="http://nathanbarry.com/24hours/">24-hour Challenge</a> of sorts &ndash; to create and launch a product, from scratch, in 24 hours. He&rsquo;s making up a set of design exercises and I volunteered to be one of the early supporters and go through some of the exercises and provide feedback.</p>
 
-<p>If you&rsquo;ve used Photoshop&rsquo;s Pen Tool before, you might have found it a bit annoying to use, to say the least. It takes a bit of practice to get proficient at it, and it can be baffling when it doesn&rsquo;t work. Nathan&rsquo;s course inspired me to try making some icons, and I think creating icons can be great pen tool practice.</p>
+<p>One of them was to redesign a Twitter clone while restricting the types of changes I could make: only size, position, and contrast. In other words, move stuff around the page but don&rsquo;t change any fonts, add anything new, or take anything away.</p>
 
-<p>Check out the video, and follow along!</p>
+<p>The original version is in black and white (aside from the images, anyway). I should note that this isn&rsquo;t Nathan&rsquo;s original &ndash; I recreated (most of) it in Photoshop so I could change the elements around.</p>
 
-<!--more-->
+<p><img class="center" src="/images/posts/2014-12-02-redesign-twitter-app/bw-twitter-before.png" width="50%" title="Nathan's original version" ></p>
+
+<p>Let&rsquo;s go through some things that make it look less than stellar.</p>
+
+<h3>What&rsquo;s Wrong</h3>
+
+<ul>
+<li><p><strong>Avatar position</strong> &ndash; The avatar icon for each user is squished up against the left side of the page. There&rsquo;s a tiny 1 or 2 pixel space, but the image feels cramped over there.</p></li>
+<li><p><strong>Name/tweet alignment</strong> &ndash; The tweet text is indented underneath the person&rsquo;s name, and it makes the layout look unaligned.</p></li>
+<li><p><strong>Size of name + handle</strong> &ndash; The name and Twitter handle are the same size so they have the same visual weight. I&rsquo;d argue that the name is more important than the handle, though, and that their sizes and/or colors should reflect that.</p></li>
+<li><p><strong>All that blank space at the bottom</strong> &ndash; Sorry. That&rsquo;s my fault. Nathan&rsquo;s original had 2 more tweets at the bottom, but I just got lazy duplicating them in Photoshop and gave up at 3.</p></li>
+</ul>
 
 
+<h3>Attempting a Redesign</h3>
+
+<p>I tried to address each of the issues in the redesigned version (well, except the missing tweets).</p>
+
+<div style="text-align: center; overflow: auto; width: 100%; margin-bottom: 2em;">
+<span class='caption-wrapper img--before'><img class='caption' src='/images/posts/2014-12-02-redesign-twitter-app/bw-twitter-before.png' width='' height='' title='Before'><span class='caption-text'>Before</span></span>
+<span class='caption-wrapper img--after'><img class='caption' src='/images/posts/2014-12-02-redesign-twitter-app/bw-twitter-after.png' width='' height='' title='After'><span class='caption-text'>After</span></span>
+</div>
 
 
-<div class="embed-video-container"><iframe src="//www.youtube.com/embed/a3K8-CjoFFk" allowfullscreen></iframe></div>
+<p>Here&rsquo;s what changed:</p>
+
+<ul>
+<li><p>Text spacing for the tweet body was increased a bit for readability.</p></li>
+<li><p>The avatar image was bumped in so to give it some breathing room from that left edge.</p></li>
+<li><p>The tweet age was reduced to a middle-gray color, to de-emphasize it, and then it was pulled to the right to make all the ages line up. They&rsquo;re easier to scan this way, since you know they&rsquo;ll be on the right side. In the original version, your eye needs to &ldquo;find&rdquo; the time on each line, because its position varies with the width of the user&rsquo;s name and handle.</p></li>
+<li><p>The @handle was moved under the image, and resized much smaller. This created some much-needed whitespace between the user&rsquo;s full name and the tweet age.</p></li>
+<li><p>The action icons moved to the right to balance out the composition, and I made them a bit lighter to make it easier to focus on the text of the tweet.</p></li>
+<li><p>The user names were toned down a bit, again so it&rsquo;s easier to focus on the tweet.</p></li>
+</ul>
 
 
-<p>When you&rsquo;re done, if you want to practice some more, head over to <a href="http://fortawesome.github.io/Font-Awesome/icons/">Font Awesome&rsquo;s icon set</a>, pick one, and try to duplicate it yourself. You&rsquo;ll get the hang of the pen tool a lot faster if you&rsquo;re designing something real, and personally, creating an icon seems a lot more fun than tracing out some sort of nondescript practice shape.</p>
+<p>Looking at it now, there are still a few things I could go back and tweak. And I think my version is an incremental improvement, but not drastically better. But it was a fun exercise! I&rsquo;d recommend giving it a try.</p>
 
-<p>Have fun with it!</p>
+<h3>{ Unnamed product }</h3>
+
+<p>As of this writing, Nathan is still hard at work finishing up his design exercises. From what I&rsquo;ve seen and worked on so far, I think it&rsquo;ll be a great way to get some design practice, and at only a few bucks it&rsquo;s hard to go wrong. <a href="http://nathanbarry.com/24hours/">Check it out</a> if you&rsquo;re looking for some exercises to improve your own designs.</p>
 </div>
 
 
@@ -157,7 +187,7 @@
   
 
 
-<time datetime="2014-10-03T00:49:55-04:00" pubdate data-updated="true">Oct 3<sup>rd</sup>, 2014</time>
+<time datetime="2014-12-02T00:20:51-05:00" pubdate data-updated="true">Dec 2<sup>nd</sup>, 2014</time>
       
 
 
@@ -165,7 +195,7 @@
     
       <div class="sharing">
   
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://dceddia.github.io/creating-an-icon-in-photoshop/" data-via="designwithdave" data-counturl="http://dceddia.github.io/creating-an-icon-in-photoshop/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://dceddia.github.io/redesign-twitter-app/" data-via="designwithdave" data-counturl="http://dceddia.github.io/redesign-twitter-app/" >Tweet</a>
   
   
   
@@ -174,10 +204,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/choosing-colors/" title="Previous Post: Basics: Choosing Colors">&laquo; Basics: Choosing Colors</a>
+        <a class="basic-alignment left" href="/garage-door-opener-part-2/" title="Previous Post: Garage Door Opener: Part 2">&laquo; Garage Door Opener: Part 2</a>
       
-      
-        <a class="basic-alignment right" href="/the-story-matters/" title="Next Post: The Story Matters">The Story Matters &raquo;</a>
       
     </p>
   </footer>
@@ -265,8 +293,8 @@
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://dceddia.github.io/creating-an-icon-in-photoshop/';
-        var disqus_url = 'http://dceddia.github.io/creating-an-icon-in-photoshop/';
+        var disqus_identifier = 'http://dceddia.github.io/redesign-twitter-app/';
+        var disqus_url = 'http://dceddia.github.io/redesign-twitter-app/';
         var disqus_script = 'embed.js';
       
     (function () {

@@ -4,7 +4,7 @@
   <title><![CDATA[design with dave]]></title>
   <link href="http://dceddia.github.io/atom.xml" rel="self"/>
   <link href="http://dceddia.github.io/"/>
-  <updated>2014-11-08T00:41:58-05:00</updated>
+  <updated>2014-12-02T00:25:15-05:00</updated>
   <id>http://dceddia.github.io/</id>
   <author>
     <name><![CDATA[Dave Ceddia]]></name>
@@ -12,6 +12,61 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Exercise: Redesign a Twitter App]]></title>
+    <link href="http://dceddia.github.io/redesign-twitter-app/"/>
+    <updated>2014-12-02T00:20:51-05:00</updated>
+    <id>http://dceddia.github.io/redesign-twitter-app</id>
+    <content type="html"><![CDATA[<p>This morning, I saw that <a href="http://nathanbarry.com">Nathan Barry</a> posted a <a href="http://nathanbarry.com/24hours/">24-hour Challenge</a> of sorts &ndash; to create and launch a product, from scratch, in 24 hours. He&rsquo;s making up a set of design exercises and I volunteered to be one of the early supporters and go through some of the exercises and provide feedback.</p>
+
+<p>One of them was to redesign a Twitter clone while restricting the types of changes I could make: only size, position, and contrast. In other words, move stuff around the page but don&rsquo;t change any fonts, add anything new, or take anything away.</p>
+
+<p>The original version is in black and white (aside from the images, anyway). I should note that this isn&rsquo;t Nathan&rsquo;s original &ndash; I recreated (most of) it in Photoshop so I could change the elements around.</p>
+
+<p><img class="center" src="http://dceddia.github.io/images/posts/2014-12-02-redesign-twitter-app/bw-twitter-before.png" width="50%" title="Nathan's original version" ></p>
+
+<p>Let&rsquo;s go through some things that make it look less than stellar.</p>
+
+<h3>What&rsquo;s Wrong</h3>
+
+<ul>
+<li><p><strong>Avatar position</strong> &ndash; The avatar icon for each user is squished up against the left side of the page. There&rsquo;s a tiny 1 or 2 pixel space, but the image feels cramped over there.</p></li>
+<li><p><strong>Name/tweet alignment</strong> &ndash; The tweet text is indented underneath the person&rsquo;s name, and it makes the layout look unaligned.</p></li>
+<li><p><strong>Size of name + handle</strong> &ndash; The name and Twitter handle are the same size so they have the same visual weight. I&rsquo;d argue that the name is more important than the handle, though, and that their sizes and/or colors should reflect that.</p></li>
+<li><p><strong>All that blank space at the bottom</strong> &ndash; Sorry. That&rsquo;s my fault. Nathan&rsquo;s original had 2 more tweets at the bottom, but I just got lazy duplicating them in Photoshop and gave up at 3.</p></li>
+</ul>
+
+
+<h3>Attempting a Redesign</h3>
+
+<p>I tried to address each of the issues in the redesigned version (well, except the missing tweets).</p>
+
+<div style="text-align: center; overflow: auto; width: 100%; margin-bottom: 2em;">
+<span class='caption-wrapper img--before'><img class='caption' src='http://dceddia.github.io/images/posts/2014-12-02-redesign-twitter-app/bw-twitter-before.png' width='' height='' title='Before'><span class='caption-text'>Before</span></span>
+<span class='caption-wrapper img--after'><img class='caption' src='http://dceddia.github.io/images/posts/2014-12-02-redesign-twitter-app/bw-twitter-after.png' width='' height='' title='After'><span class='caption-text'>After</span></span>
+</div>
+
+
+<p>Here&rsquo;s what changed:</p>
+
+<ul>
+<li><p>Text spacing for the tweet body was increased a bit for readability.</p></li>
+<li><p>The avatar image was bumped in so to give it some breathing room from that left edge.</p></li>
+<li><p>The tweet age was reduced to a middle-gray color, to de-emphasize it, and then it was pulled to the right to make all the ages line up. They&rsquo;re easier to scan this way, since you know they&rsquo;ll be on the right side. In the original version, your eye needs to &ldquo;find&rdquo; the time on each line, because its position varies with the width of the user&rsquo;s name and handle.</p></li>
+<li><p>The @handle was moved under the image, and resized much smaller. This created some much-needed whitespace between the user&rsquo;s full name and the tweet age.</p></li>
+<li><p>The action icons moved to the right to balance out the composition, and I made them a bit lighter to make it easier to focus on the text of the tweet.</p></li>
+<li><p>The user names were toned down a bit, again so it&rsquo;s easier to focus on the tweet.</p></li>
+</ul>
+
+
+<p>Looking at it now, there are still a few things I could go back and tweak. And I think my version is an incremental improvement, but not drastically better. But it was a fun exercise! I&rsquo;d recommend giving it a try.</p>
+
+<h3>{ Unnamed product }</h3>
+
+<p>As of this writing, Nathan is still hard at work finishing up his design exercises. From what I&rsquo;ve seen and worked on so far, I think it&rsquo;ll be a great way to get some design practice, and at only a few bucks it&rsquo;s hard to go wrong. <a href="http://nathanbarry.com/24hours/">Check it out</a> if you&rsquo;re looking for some exercises to improve your own designs.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Garage Door Opener: Part 2]]></title>
@@ -1347,7 +1402,7 @@
 
 <p>I hope this Carbon Copy walkthrough has been fun, and motivates you to try your hand at copying other designs out on the web. My goal is to provide you with design practice exercises that’ll increase your skill as well as mine.</p>
 
-<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#x6d;&#97;&#105;&#108;&#x74;&#x6f;&#x3a;&#100;&#97;&#118;&#x65;&#x40;&#100;&#101;&#x73;&#x69;&#x67;&#x6e;&#119;&#x69;&#116;&#x68;&#x64;&#97;&#x76;&#x65;&#46;&#x63;&#x6f;&#x6d;">&#x64;&#97;&#118;&#101;&#64;&#x64;&#x65;&#x73;&#105;&#x67;&#110;&#x77;&#x69;&#116;&#x68;&#100;&#x61;&#x76;&#x65;&#46;&#99;&#x6f;&#x6d;</a>). I&rsquo;d love to hear what you think.</p>
+<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#109;&#x61;&#105;&#108;&#116;&#111;&#58;&#x64;&#x61;&#x76;&#x65;&#64;&#x64;&#101;&#x73;&#x69;&#x67;&#110;&#119;&#105;&#x74;&#104;&#x64;&#x61;&#x76;&#101;&#x2e;&#x63;&#111;&#x6d;">&#x64;&#97;&#118;&#101;&#64;&#100;&#101;&#115;&#105;&#x67;&#x6e;&#x77;&#x69;&#116;&#104;&#x64;&#x61;&#x76;&#x65;&#x2e;&#x63;&#111;&#x6d;</a>). I&rsquo;d love to hear what you think.</p>
 ]]></content>
   </entry>
   
