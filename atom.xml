@@ -4,7 +4,7 @@
   <title><![CDATA[design with dave]]></title>
   <link href="http://dceddia.github.io/atom.xml" rel="self"/>
   <link href="http://dceddia.github.io/"/>
-  <updated>2014-12-02T00:25:15-05:00</updated>
+  <updated>2014-12-02T00:27:05-05:00</updated>
   <id>http://dceddia.github.io/</id>
   <author>
     <name><![CDATA[Dave Ceddia]]></name>
@@ -21,6 +21,9 @@
     <content type="html"><![CDATA[<p>This morning, I saw that <a href="http://nathanbarry.com">Nathan Barry</a> posted a <a href="http://nathanbarry.com/24hours/">24-hour Challenge</a> of sorts &ndash; to create and launch a product, from scratch, in 24 hours. He&rsquo;s making up a set of design exercises and I volunteered to be one of the early supporters and go through some of the exercises and provide feedback.</p>
 
 <p>One of them was to redesign a Twitter clone while restricting the types of changes I could make: only size, position, and contrast. In other words, move stuff around the page but don&rsquo;t change any fonts, add anything new, or take anything away.</p>
+
+<!--more-->
+
 
 <p>The original version is in black and white (aside from the images, anyway). I should note that this isn&rsquo;t Nathan&rsquo;s original &ndash; I recreated (most of) it in Photoshop so I could change the elements around.</p>
 
@@ -1402,7 +1405,7 @@
 
 <p>I hope this Carbon Copy walkthrough has been fun, and motivates you to try your hand at copying other designs out on the web. My goal is to provide you with design practice exercises that’ll increase your skill as well as mine.</p>
 
-<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#109;&#x61;&#105;&#108;&#116;&#111;&#58;&#x64;&#x61;&#x76;&#x65;&#64;&#x64;&#101;&#x73;&#x69;&#x67;&#110;&#119;&#105;&#x74;&#104;&#x64;&#x61;&#x76;&#101;&#x2e;&#x63;&#111;&#x6d;">&#x64;&#97;&#118;&#101;&#64;&#100;&#101;&#115;&#105;&#x67;&#x6e;&#x77;&#x69;&#116;&#104;&#x64;&#x61;&#x76;&#x65;&#x2e;&#x63;&#111;&#x6d;</a>). I&rsquo;d love to hear what you think.</p>
+<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#109;&#97;&#x69;&#x6c;&#x74;&#111;&#x3a;&#100;&#x61;&#118;&#101;&#64;&#100;&#x65;&#115;&#105;&#103;&#110;&#x77;&#x69;&#x74;&#104;&#100;&#x61;&#x76;&#101;&#46;&#x63;&#111;&#109;">&#100;&#97;&#118;&#x65;&#64;&#100;&#101;&#x73;&#105;&#x67;&#x6e;&#x77;&#105;&#x74;&#104;&#100;&#97;&#x76;&#x65;&#x2e;&#99;&#111;&#x6d;</a>). I&rsquo;d love to hear what you think.</p>
 ]]></content>
   </entry>
   
