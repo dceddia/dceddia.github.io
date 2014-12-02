@@ -12,13 +12,13 @@ module Jekyll
     @height = ''
 
     def initialize(tag_name, markup, tokens)
-      if markup =~ /(\S.*\s+)?(https?:\/\/|\/)(\S+)(\s+\d+\s+\d+)?(\s+.+)?/i
+      if markup =~ /(\S.*\s+)?(https?:\/\/|\/)(\S+)(\s+\d+%?\s+\d+%?)?(\s+.+)?/i
         @class = $1 || ''
         @img = $2 + $3
         if $5
           @title = $5.strip
         end
-        if $4 =~ /\s*(\d+)\s+(\d+)/
+        if $4 =~ /\s*(\d+%?)\s+(\d+%?)/
           @width = $1
           @height = $2
         end

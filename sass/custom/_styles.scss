@@ -68,3 +68,17 @@
     display: inline-block;
   }
 }
+
+.img--before {
+  float: left;
+  width: 45%;
+}
+
+.img--after {
+  float: right;
+  width: 45%;
+
+  &:after {
+    clear: both;
+  }
+}
