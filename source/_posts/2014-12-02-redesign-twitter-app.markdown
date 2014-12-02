@@ -12,6 +12,8 @@ This morning, I saw that [Nathan Barry](http://nathanbarry.com) posted a [24-hou
 
 One of them was to redesign a Twitter clone while restricting the types of changes I could make: only size, position, and contrast. In other words, move stuff around the page but don't change any fonts, add anything new, or take anything away.
 
+<!--more-->
+
 The original version is in black and white (aside from the images, anyway). I should note that this isn't Nathan's original -- I recreated (most of) it in Photoshop so I could change the elements around.
 
 {%img center /images/posts/2014-12-02-redesign-twitter-app/bw-twitter-before.png 50% Nathan's original version %}
