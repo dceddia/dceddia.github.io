@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exercise: Redesign a Twitter App"
-date: 2014-12-01 19:19:27 -0500
+date: 2014-12-02 00:20:51 -0500
 comments: true
 categories:
 keywords:
@@ -14,7 +14,7 @@ One of them was to redesign a Twitter clone while restricting the types of chang
 
 The original version is in black and white (aside from the images, anyway). I should note that this isn't Nathan's original -- I recreated (most of) it in Photoshop so I could change the elements around.
 
-{%img center /images/posts/2014-12-01-nathan-design-exercise/bw-twitter-before.png 50% Nathan's original version %}
+{%img center /images/posts/2014-12-02-redesign-twitter-app/bw-twitter-before.png 50% Nathan's original version %}
 
 Let's go through some things that make it look less than stellar.
 
@@ -26,15 +26,15 @@ Let's go through some things that make it look less than stellar.
 
 - **Size of name + handle** -- The name and Twitter handle are the same size so they have the same visual weight. I'd argue that the name is more important than the handle, though, and that their sizes and/or colors should reflect that.
 
-- ** All that blank space at the bottom ** -- Sorry. That's my fault. Nathan's original had 2 more tweets at the bottom, but I just got lazy duplicating them in Photoshop and gave up at 3.
+- **All that blank space at the bottom** -- Sorry. That's my fault. Nathan's original had 2 more tweets at the bottom, but I just got lazy duplicating them in Photoshop and gave up at 3.
 
 ### Attempting a Redesign
 
 I tried to address each of the issues in the redesigned version (well, except the missing tweets).
 
 <div style="text-align: center; overflow: auto; width: 100%; margin-bottom: 2em;">
-{%imgcap img--before /images/posts/2014-12-01-nathan-design-exercise/bw-twitter-before.png Before %}
-{%imgcap img--after /images/posts/2014-12-01-nathan-design-exercise/bw-twitter-after.png After %}
+{%imgcap img--before /images/posts/2014-12-02-redesign-twitter-app/bw-twitter-before.png Before %}
+{%imgcap img--after /images/posts/2014-12-02-redesign-twitter-app/bw-twitter-after.png After %}
 </div>
 
 Here's what changed:
