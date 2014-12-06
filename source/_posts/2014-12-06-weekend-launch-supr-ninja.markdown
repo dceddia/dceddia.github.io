@@ -27,3 +27,6 @@ Getting started! I've one cheat working in my favor: I already have the domain r
 
 **2:10pm EST**<br>
 DNS should be set up for [supr.ninja](http://supr.ninja), but it will take a little while to propagate. Hopefully not the full 48-hours. I also uploaded the most barebones of barebones placeholder pages so I can tell when DNS has figured itself out. Off to research payment systems.
+
+**2:35pm EST**<br>
+Stripe account is set up, but SSL is required before I can accept payments through my site (DNS isn't resolving yet, either).
