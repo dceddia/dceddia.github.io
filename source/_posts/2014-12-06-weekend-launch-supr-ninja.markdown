@@ -55,6 +55,6 @@ If you've got any thoughts, feedback, think the idea sucks, whatever -- leave a 
 Tried to buy an SSL cert, but they do this pesky thing where they want to verify the buyer by sending an email to an email address at the domain. So I had to set up email for supr.ninja, and once that's live (waiting for MX records to propagate), I'll take care of SSL. Also, sent out a mailing to my list (hi guys!). In the meantime, I'll work on sales copy.
 
 **6:10pm EST**<br>
-The first rough draft of the sales copy is live. There's no design yet. It's posted up at http://supr.ninja. Depending on how well far the DNS changes have made it, you may or may not be able to see it yet. One friend reports that he can see it, but I can't see it myself.
+The first rough draft of the sales copy is live. There's no design yet. It's posted up at [http://supr.ninja](http://supr.ninja). Depending on how well far the DNS changes have made it, you may or may not be able to see it yet. One friend reports that he can see it, but I can't see it myself.
 
 The service is meant to be available in a configurable package. I'm not sure how to present this as a buyable thing, though. If you've got any ideas, let me know.
