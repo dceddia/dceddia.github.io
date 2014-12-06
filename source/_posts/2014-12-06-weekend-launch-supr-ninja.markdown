@@ -58,3 +58,6 @@ Tried to buy an SSL cert, but they do this pesky thing where they want to verify
 The first rough draft of the sales copy is live. There's no design yet. It's posted up at [http://supr.ninja](http://supr.ninja). Depending on how well far the DNS changes have made it, you may or may not be able to see it yet. One friend reports that he can see it, but I can't see it myself.
 
 The service is meant to be available in a configurable package. I'm not sure how to present this as a buyable thing, though. If you've got any ideas, let me know.
+
+**6:50pm EST**<br>
+SSL cert has been created and installed. I could start messing around with Stripe now, but instead I'm going to work on the sales page design. Definitely more important.
