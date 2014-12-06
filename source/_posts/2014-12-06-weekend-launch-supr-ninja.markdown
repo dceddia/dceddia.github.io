@@ -52,4 +52,4 @@ If you've got any thoughts, feedback, think the idea sucks, whatever -- leave a 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 **3:55 EST**<br>
-Tried to by an SSL cert, but they do this pesky thing where they want to verify the buyer by sending an email to an email address at the domain. So I had ti set up email for supr.ninja, and once that's live (waiting for MX records to propagate), I'll take care of SSL. Also, sent out a mailing to my list (hi guys!). In the meantime, I'll work on sales copy.
+Tried to buy an SSL cert, but they do this pesky thing where they want to verify the buyer by sending an email to an email address at the domain. So I had ti set up email for supr.ninja, and once that's live (waiting for MX records to propagate), I'll take care of SSL. Also, sent out a mailing to my list (hi guys!). In the meantime, I'll work on sales copy.
