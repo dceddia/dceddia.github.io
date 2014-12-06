@@ -30,3 +30,23 @@ DNS should be set up for [supr.ninja](http://supr.ninja), but it will take a lit
 
 **2:35pm EST**<br>
 Stripe account is set up, but SSL is required before I can accept payments through my site (DNS isn't resolving yet, either).
+
+**3:15pm EST**<br>
+I set up an account with [SSLMate](https://sslmate.com/), a super awesome service that lets you buy SSL certificates through the command line. It saves a ton of hassle if you're on a Linux server. Next step is to buy the cert. But first, an update...
+
+I thought I should write a little more about what I'm planning to do, too.
+
+#### The plan for supr.ninja
+
+I already mentioned that I want to help people finish projects. So here's why. This has been a struggle of mine for a while -- I start tons of little things, but very few of them are ever really completed. I've got this Projects folder on my laptop that's just a graveyard of Things That Never Came To Be.
+
+So what I'm saying is -- failing to follow through on things is a pain point I understand. And I'm guessing that a lot of other people have this problem too.
+
+So, with supr.ninja, the plan is to offer a service that will help keep people motivated. It's a very personalized service, one-on-one, me and you. You sign up for a batch of "checkups" -- little nuggets of time, where I will contact you however you prefer and spend a couple minutes chatting with you about your project. You tell me how it's going, whether you're making progress, and if there are things you're stuck on. I'll offer whatever advice I can and prod you with a Motivation Stick if it seems like you're giving up.
+
+For contact options, the plan is to offer both **voice** and **text** options. Google Hangouts, Skype, text messages, emails, Twitter, however you want to interact. Each checkup will be a quick, 5-minute call, or a small email exchange. Pricing-wise, I'm thinking a voice call will be ~$10 and a text interaction will be ~$3. They can be daily, a few times a week, once a month, whatever you want. You'll pick a slot from the available times and I'll contact you at your chosen time.
+
+I'm thinking of starting off by accepting a very small group of beta users, 5 to 10. This will keep it manageable and allow me to offer personalized service while learning how this will work.
+
+If you've got any thoughts, feedback, think the idea sucks, whatever -- leave a comment down below or tweet me <a href="https://twitter.com/intent/tweet?screen_name=dceddia" class="twitter-mention-button" data-related="dceddia">Tweet to @dceddia</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
