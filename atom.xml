@@ -4,7 +4,7 @@
   <title><![CDATA[design with dave]]></title>
   <link href="http://dceddia.github.io/atom.xml" rel="self"/>
   <link href="http://dceddia.github.io/"/>
-  <updated>2014-12-02T00:27:05-05:00</updated>
+  <updated>2014-12-06T13:34:24-05:00</updated>
   <id>http://dceddia.github.io/</id>
   <author>
     <name><![CDATA[Dave Ceddia]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Weekend Launch: supr.ninja]]></title>
+    <link href="http://dceddia.github.io/weekend-launch-supr-ninja/"/>
+    <updated>2014-12-06T13:23:59-05:00</updated>
+    <id>http://dceddia.github.io/weekend-launch-supr-ninja</id>
+    <content type="html"><![CDATA[<p>This past week, Nathan Barry and Amy Hoy both built and launched products in 24-hours. If you didn&rsquo;t catch it as it was going down, their blog posts chronicling the launches are <a href="http://nathanbarry.com/24hours">here (Nathan)</a> and <a href="http://unicornfree.com/2014/24-hour-product-challenge">here (Amy)</a>. It was really interesting and inspiring to watch a couple experienced online entrepreneurs launch something so quickly.</p>
+
+<p>So, with that in mind, I&rsquo;m putting myself to a similar challenge &ndash; to build and launch something by the end of this weekend.</p>
+
+<p>I am going to build a service to help people follow through on their projects, with the goal of getting 5 paying customers, by the end of tomorrow. I figure since Nathan and Amy have launched real products before, but I haven&rsquo;t, I&rsquo;m going to give myself a few extra hours ;)</p>
+
+<p>I&rsquo;m using Trello to track what&rsquo;s finished and what still needs to be done. The board is public and you can follow along here:
+<a href="https://trello.com/b/Za79rfaD/supr-ninja-launch">https://trello.com/b/Za79rfaD/supr-ninja-launch</a></p>
+
+<p>I&rsquo;ll keep this post updated as I go.</p>
+
+<p>P.S. If you think this is cool, tweet about it! #suprninja</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Exercise: Redesign a Twitter App]]></title>
@@ -1405,7 +1425,7 @@
 
 <p>I hope this Carbon Copy walkthrough has been fun, and motivates you to try your hand at copying other designs out on the web. My goal is to provide you with design practice exercises that’ll increase your skill as well as mine.</p>
 
-<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#109;&#97;&#x69;&#x6c;&#x74;&#111;&#x3a;&#100;&#x61;&#118;&#101;&#64;&#100;&#x65;&#115;&#105;&#103;&#110;&#x77;&#x69;&#x74;&#104;&#100;&#x61;&#x76;&#101;&#46;&#x63;&#111;&#109;">&#100;&#97;&#118;&#x65;&#64;&#100;&#101;&#x73;&#105;&#x67;&#x6e;&#x77;&#105;&#x74;&#104;&#100;&#97;&#x76;&#x65;&#x2e;&#99;&#111;&#x6d;</a>). I&rsquo;d love to hear what you think.</p>
+<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#x64;&#x61;&#118;&#101;&#x40;&#x64;&#101;&#x73;&#105;&#103;&#x6e;&#119;&#x69;&#116;&#104;&#100;&#97;&#x76;&#101;&#46;&#99;&#x6f;&#x6d;">&#100;&#x61;&#118;&#101;&#64;&#x64;&#x65;&#x73;&#105;&#103;&#x6e;&#x77;&#x69;&#x74;&#x68;&#x64;&#x61;&#x76;&#101;&#x2e;&#x63;&#x6f;&#x6d;</a>). I&rsquo;d love to hear what you think.</p>
 ]]></content>
   </entry>
   
