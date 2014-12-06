@@ -4,7 +4,7 @@
   <title><![CDATA[design with dave]]></title>
   <link href="http://dceddia.github.io/atom.xml" rel="self"/>
   <link href="http://dceddia.github.io/"/>
-  <updated>2014-12-06T14:36:31-05:00</updated>
+  <updated>2014-12-06T15:18:04-05:00</updated>
   <id>http://dceddia.github.io/</id>
   <author>
     <name><![CDATA[Dave Ceddia]]></name>
@@ -39,6 +39,28 @@ DNS should be set up for <a href="http://supr.ninja">supr.ninja</a>, but it will
 
 <p><strong>2:35pm EST</strong><br>
 Stripe account is set up, but SSL is required before I can accept payments through my site (DNS isn&rsquo;t resolving yet, either).</p>
+
+<p><strong>3:15pm EST</strong><br>
+I set up an account with <a href="https://sslmate.com/">SSLMate</a>, a super awesome service that lets you buy SSL certificates through the command line. It saves a ton of hassle if you&rsquo;re on a Linux server. Next step is to buy the cert. But first, an update&hellip;</p>
+
+<p>I thought I should write a little more about what I&rsquo;m planning to do, too.</p>
+
+<h4>The plan for supr.ninja</h4>
+
+<p>I already mentioned that I want to help people finish projects. So here&rsquo;s why. This has been a struggle of mine for a while &ndash; I start tons of little things, but very few of them are ever really completed. I&rsquo;ve got this Projects folder on my laptop that&rsquo;s just a graveyard of Things That Never Came To Be.</p>
+
+<p>So what I&rsquo;m saying is &ndash; failing to follow through on things is a pain point I understand. And I&rsquo;m guessing that a lot of other people have this problem too.</p>
+
+<p>So, with supr.ninja, the plan is to offer a service that will help keep people motivated. It&rsquo;s a very personalized service, one-on-one, me and you. You sign up for a batch of &ldquo;checkups&rdquo; &ndash; little nuggets of time, where I will contact you however you prefer and spend a couple minutes chatting with you about your project. You tell me how it&rsquo;s going, whether you&rsquo;re making progress, and if there are things you&rsquo;re stuck on. I&rsquo;ll offer whatever advice I can and prod you with a Motivation Stick if it seems like you&rsquo;re giving up.</p>
+
+<p>For contact options, the plan is to offer both <strong>voice</strong> and <strong>text</strong> options. Google Hangouts, Skype, text messages, emails, Twitter, however you want to interact. Each checkup will be a quick, 5-minute call, or a small email exchange. Pricing-wise, I&rsquo;m thinking a voice call will be ~$10 and a text interaction will be ~$3. They can be daily, a few times a week, once a month, whatever you want. You&rsquo;ll pick a slot from the available times and I&rsquo;ll contact you at your chosen time.</p>
+
+<p>I&rsquo;m thinking of starting off by accepting a very small group of beta users, 5 to 10. This will keep it manageable and allow me to offer personalized service while learning how this will work.</p>
+
+<p>If you&rsquo;ve got any thoughts, feedback, think the idea sucks, whatever &ndash; leave a comment down below or tweet me <a href="https://twitter.com/intent/tweet?screen_name=dceddia" class="twitter-mention-button" data-related="dceddia">Tweet to @dceddia</a></p>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
 ]]></content>
   </entry>
   
@@ -1434,7 +1456,7 @@ Stripe account is set up, but SSL is required before I can accept payments throu
 
 <p>I hope this Carbon Copy walkthrough has been fun, and motivates you to try your hand at copying other designs out on the web. My goal is to provide you with design practice exercises that’ll increase your skill as well as mine.</p>
 
-<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#100;&#97;&#x76;&#x65;&#x40;&#100;&#x65;&#x73;&#x69;&#103;&#110;&#x77;&#x69;&#116;&#104;&#x64;&#97;&#118;&#x65;&#46;&#x63;&#111;&#109;">&#100;&#97;&#x76;&#x65;&#x40;&#100;&#101;&#x73;&#105;&#103;&#110;&#x77;&#105;&#116;&#x68;&#x64;&#x61;&#x76;&#101;&#46;&#99;&#111;&#109;</a>). I&rsquo;d love to hear what you think.</p>
+<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#111;&#x3a;&#x64;&#97;&#118;&#101;&#x40;&#100;&#x65;&#115;&#105;&#x67;&#x6e;&#x77;&#105;&#116;&#104;&#100;&#x61;&#118;&#x65;&#46;&#99;&#x6f;&#109;">&#x64;&#97;&#x76;&#101;&#x40;&#x64;&#101;&#115;&#105;&#x67;&#x6e;&#119;&#105;&#x74;&#104;&#x64;&#x61;&#x76;&#101;&#x2e;&#x63;&#111;&#x6d;</a>). I&rsquo;d love to hear what you think.</p>
 ]]></content>
   </entry>
   
