@@ -64,3 +64,6 @@ SSL cert has been created and installed. I could start messing around with Strip
 
 **7:40pm EST**<br>
 Working on the design for the sales page. It's going slower than I hoped, but I'm making progress. It's time for a dinner break. Back in a bit!
+
+**9:22pm EST**<br>
+Back to work after a delicious dinner. I got some feedback on the sales copy (thanks guys), made some edits, and now I'm back to working on the design. I still can't hit the page from my home network, but I can hit it over 4G, so DNS is at least half-way functional.
