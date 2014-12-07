@@ -61,3 +61,6 @@ The service is meant to be available in a configurable package. I'm not sure how
 
 **6:50pm EST**<br>
 SSL cert has been created and installed. I could start messing around with Stripe now, but instead I'm going to work on the sales page design. Definitely more important.
+
+**7:40pm EST**<br>
+Working on the design for the sales page. It's going slower than I hoped, but I'm making progress. It's time for a dinner break. Back in a bit!
