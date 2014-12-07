@@ -69,4 +69,10 @@ Working on the design for the sales page. It's going slower than I hoped, but I'
 Back to work after a delicious dinner. I got some feedback on the sales copy (thanks guys), made some edits, and now I'm back to working on the design. I still can't hit the page from my home network, but I can hit it over 4G, so DNS is at least half-way functional.
 
 **1:20am EST**<br>
-It's been a long day, but a productive one! The design is basically finished, and live on the site right now. There's some more to do when it's resized to mobile size, and I'll take care of that tomorrow. For now, it's bedtime. See you all in the morning.
+It's been a long day, but a productive one! The design is basically finished, and live on the site right now. There's some more to do for responsiveness, and I'll take care of that tomorrow. For now, it's bedtime. See you all in the morning.
+
+**Day 2, 10:30am**<br>
+I'm back at it after some breakfast and a much-needed coffee. I'm going to start with making the site more mobile-friendly with some media queries, and then work on finishing up the offer section.
+
+**Day 2, 11:20am**<br>
+The design responds nicely to resizing now. I have guests stopping by shortly, so I'm taking a break and I'll be back in a few hours to finish up.
