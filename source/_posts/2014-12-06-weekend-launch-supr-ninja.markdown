@@ -76,3 +76,8 @@ I'm back at it after some breakfast and a much-needed coffee. I'm going to start
 
 **Day 2, 11:20am**<br>
 The design responds nicely to resizing now. I have guests stopping by shortly, so I'm taking a break and I'll be back in a few hours to finish up.
+
+**Day 2, 6:00pm**<br>
+I've spent the last couple hours working on designing and writing the offer section of the page. You can see what I've got at http://supr.ninja, and let me know what you think. Current plan is to let them pick a contact method, and multiple times, and then I'll just sort it out after they order, manually. I'll revisit later if it becomes a hassle.
+
+Right now, it's time for a dinner break.
