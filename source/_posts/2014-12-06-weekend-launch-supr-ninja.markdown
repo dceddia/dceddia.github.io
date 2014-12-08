@@ -84,3 +84,6 @@ Right now, it's time for a dinner break.
 
 **Day 2, 8:15pm**<br>
 I'm back at it now, reading up on how to integrate Stripe payments. I was hoping to avoid having to write any server-side code, but it seems like I'll have to do at least a little, to get Stripe working. Only a few hours left though!
+
+**Day 2, 12:05am**<br>
+The page is live, but the payment links are in test mode right now.
