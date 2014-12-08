@@ -4,7 +4,7 @@
   <title><![CDATA[design with dave]]></title>
   <link href="http://dceddia.github.io/atom.xml" rel="self"/>
   <link href="http://dceddia.github.io/"/>
-  <updated>2014-12-07T21:59:12-05:00</updated>
+  <updated>2014-12-08T00:06:45-05:00</updated>
   <id>http://dceddia.github.io/</id>
   <author>
     <name><![CDATA[Dave Ceddia]]></name>
@@ -95,6 +95,9 @@ I&rsquo;ve spent the last couple hours working on designing and writing the offe
 
 <p><strong>Day 2, 8:15pm</strong><br>
 I&rsquo;m back at it now, reading up on how to integrate Stripe payments. I was hoping to avoid having to write any server-side code, but it seems like I&rsquo;ll have to do at least a little, to get Stripe working. Only a few hours left though!</p>
+
+<p><strong>Day 2, 12:05am</strong><br>
+The page is live, but the payment links are in test mode right now.</p>
 ]]></content>
   </entry>
   
@@ -1490,7 +1493,7 @@ I&rsquo;m back at it now, reading up on how to integrate Stripe payments. I was 
 
 <p>I hope this Carbon Copy walkthrough has been fun, and motivates you to try your hand at copying other designs out on the web. My goal is to provide you with design practice exercises that’ll increase your skill as well as mine.</p>
 
-<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#109;&#x61;&#105;&#108;&#x74;&#x6f;&#x3a;&#x64;&#x61;&#118;&#101;&#x40;&#100;&#x65;&#115;&#x69;&#x67;&#110;&#119;&#x69;&#x74;&#x68;&#x64;&#x61;&#x76;&#x65;&#46;&#x63;&#x6f;&#109;">&#100;&#x61;&#x76;&#101;&#x40;&#100;&#x65;&#115;&#x69;&#103;&#x6e;&#x77;&#x69;&#x74;&#x68;&#x64;&#x61;&#118;&#101;&#x2e;&#x63;&#x6f;&#109;</a>). I&rsquo;d love to hear what you think.</p>
+<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#x6d;&#97;&#105;&#108;&#116;&#111;&#x3a;&#100;&#x61;&#118;&#x65;&#64;&#x64;&#x65;&#115;&#105;&#103;&#x6e;&#x77;&#105;&#x74;&#104;&#x64;&#x61;&#118;&#x65;&#46;&#x63;&#x6f;&#x6d;">&#100;&#97;&#x76;&#101;&#64;&#x64;&#x65;&#x73;&#x69;&#103;&#110;&#x77;&#105;&#x74;&#104;&#100;&#x61;&#118;&#101;&#x2e;&#x63;&#x6f;&#x6d;</a>). I&rsquo;d love to hear what you think.</p>
 ]]></content>
   </entry>
   
