@@ -81,3 +81,6 @@ The design responds nicely to resizing now. I have guests stopping by shortly, s
 I've spent the last couple hours working on designing and writing the offer section of the page. You can see what I've got at http://supr.ninja, and let me know what you think. Current plan is to let them pick a contact method, and multiple times, and then I'll just sort it out after they order, manually. I'll revisit later if it becomes a hassle.
 
 Right now, it's time for a dinner break.
+
+**Day 2, 8:15pm**<br>
+I'm back at it now, reading up on how to integrate Stripe payments. I was hoping to avoid having to write any server-side code, but it seems like I'll have to do at least a little, to get Stripe working. Only a few hours left though!
