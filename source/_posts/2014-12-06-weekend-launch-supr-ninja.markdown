@@ -87,3 +87,13 @@ I'm back at it now, reading up on how to integrate Stripe payments. I was hoping
 
 **Day 2, 12:05am**<br>
 The page is live, but the payment links are in test mode right now.
+
+**Day 2, 1:00am**<br>
+I ran into a snag with the way I was submitting the payment form, making it difficult to know what to charge the buyer. That's fixed now (had to use custom Stripe Checkout instead of the simple one). It's very close to ready -- all that's missing is the confirmation email to the buyer. That's pretty important.
+
+It's getting late though, and I'm getting a bit bleary-eyed at this point. Unfortunately, I didn't finish the challenge in time. But no matter! I'll finish it tomorrow evening.
+
+**Day 3, 9:00pm**<br>
+The site is live! Payments are working (verified with a small transaction).
+
+Check it out:  http://supr.ninja
