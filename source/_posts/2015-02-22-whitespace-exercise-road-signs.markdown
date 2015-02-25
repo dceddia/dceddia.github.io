@@ -32,10 +32,10 @@ I wanted to take a stab at redesigning one of these signs. For the exercise I ch
 
 My first attempt was to space out the items, and tighten up the line height within each item. This one is already a lot more readable, I think. I also tried out the idea of using all the available vertical space. For the 3rd pass, I separated the items from the "Next Right" banner at the bottom:
 
-<div style="text-align: center;">
+<p style="text-align: center;">
 {%img /images/posts/2015-02-22-whitespace-exercise-road-signs/disney-road-sign-redesign1.png 30% %}
 {%img /images/posts/2015-02-22-whitespace-exercise-road-signs/disney-road-sign-redesign2.png 30% %}
 {%img /images/posts/2015-02-22-whitespace-exercise-road-signs/disney-road-sign-redesign3.png 30% %}
-</div>
+</p>
 
 Which one do you like best? Want to try your hand at making your own version? Grab the PSD of the original version <a href="/images/posts/2015-02-22-whitespace-exercise-road-signs/disney-road-sign-original.psd">here</a> and leave a comment with your design!
