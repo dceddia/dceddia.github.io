@@ -12,6 +12,8 @@ This past week, Nathan Barry and Amy Hoy both built and launched products in 24-
 
 So, with that in mind, I'm putting myself to a similar challenge -- to build and launch something by the end of this weekend.
 
+<!--more-->
+
 I am going to build a service to help people follow through on their projects, with the goal of getting 5 paying customers, by the end of tomorrow. I figure since Nathan and Amy have launched real products before, but I haven't, I'm going to give myself a few extra hours ;)
 
 I'm using Trello to track what's finished and what still needs to be done. The board is public and you can follow along here:
