@@ -4,7 +4,7 @@
   <title><![CDATA[design with dave]]></title>
   <link href="http://dceddia.github.io/atom.xml" rel="self"/>
   <link href="http://dceddia.github.io/"/>
-  <updated>2014-12-10T22:26:58-05:00</updated>
+  <updated>2015-02-24T22:11:49-05:00</updated>
   <id>http://dceddia.github.io/</id>
   <author>
     <name><![CDATA[Dave Ceddia]]></name>
@@ -14,6 +14,47 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Whitespace Exercise: Road Signs]]></title>
+    <link href="http://dceddia.github.io/whitespace-exercise-road-signs/"/>
+    <updated>2015-02-22T17:10:20-05:00</updated>
+    <id>http://dceddia.github.io/whitespace-exercise-road-signs</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://dceddia.github.io/images/posts/2015-02-22-whitespace-exercise-road-signs/inconsistent-line-height.png" title="Space between items is different on the left vs. the right, and some items span multiple lines." ></p>
+
+<p>While on vacation at Disney World this past week, I noticed that many of their road signs are difficult to read. I think whitespace had a lot to do with that. Let&rsquo;s look at some of the problems and make an exercise out of fixing them.</p>
+
+<!--more-->
+
+
+<p>Whitespace is an important element in design. It helps establish visual hierarchy, helps your eye distinguish the different elements.</p>
+
+<p>Disney&rsquo;s road signs don&rsquo;t have very consistent whitespace.</p>
+
+<p>Some signs have only a few lines of text and there is plenty of space between them.</p>
+
+<p><img class="center" src="http://dceddia.github.io/images/posts/2015-02-22-whitespace-exercise-road-signs/plentiful-whitespace.png" title="Lots of space. Easy to read." ></p>
+
+<p>Other ones have too many items, or items that each span multiple lines. They try to cram too many items on each sign by reducing the space between lines.</p>
+
+<p>This made it hard to quickly scan the signs, because I always had to take a second to adjust to the line spacing.</p>
+
+<p>I wanted to take a stab at redesigning one of these signs. For the exercise I chose an especially bad example from a t-shirt design on Google Images and recreated it in Photoshop:</p>
+
+<p><span class='caption-wrapper center' style='width: 50%;'><img class='caption' src='http://dceddia.github.io/images/posts/2015-02-22-whitespace-exercise-road-signs/disney-road-sign-original.png' title='Confusing to read. Quiz: How many distinct items are there?'><span class='caption-text'>Confusing to read. Quiz: How many distinct items are there?</span></span></p>
+
+<p>My first attempt was to space out the items, and tighten up the line height within each item. This one is already a lot more readable, I think. I also tried out the idea of using all the available vertical space. For the 3rd pass, I separated the items from the &ldquo;Next Right&rdquo; banner at the bottom:</p>
+
+<div style="text-align: center;">
+<img src="http://dceddia.github.io/images/posts/2015-02-22-whitespace-exercise-road-signs/disney-road-sign-redesign1.png" width="30%">
+<img src="http://dceddia.github.io/images/posts/2015-02-22-whitespace-exercise-road-signs/disney-road-sign-redesign2.png" width="30%">
+<img src="http://dceddia.github.io/images/posts/2015-02-22-whitespace-exercise-road-signs/disney-road-sign-redesign3.png" width="30%">
+</div>
+
+
+<p>Which one do you like best? Want to try your hand at making your own version? Grab the PSD of the original version <a href="http://dceddia.github.io/images/posts/2015-02-22-whitespace-exercise-road-signs/disney-road-sign-original.psd">here</a> and leave a comment with your design!</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Weekend Launch: supr.ninja]]></title>
     <link href="http://dceddia.github.io/weekend-launch-supr-ninja/"/>
     <updated>2014-12-06T13:23:59-05:00</updated>
@@ -21,6 +62,9 @@
     <content type="html"><![CDATA[<p>This past week, Nathan Barry and Amy Hoy both built and launched products in 24-hours. If you didn&rsquo;t catch it as it was going down, their blog posts chronicling the launches are <a href="http://nathanbarry.com/24hours">here (Nathan)</a> and <a href="http://unicornfree.com/2014/24-hour-product-challenge">here (Amy)</a>. It was really interesting and inspiring to watch a couple experienced online entrepreneurs launch something so quickly.</p>
 
 <p>So, with that in mind, I&rsquo;m putting myself to a similar challenge &ndash; to build and launch something by the end of this weekend.</p>
+
+<!--more-->
+
 
 <p>I am going to build a service to help people follow through on their projects, with the goal of getting 5 paying customers, by the end of tomorrow. I figure since Nathan and Amy have launched real products before, but I haven&rsquo;t, I&rsquo;m going to give myself a few extra hours ;)</p>
 
@@ -144,8 +188,8 @@ The site is live! Payments are working (verified with a small transaction).</p>
 <p>I tried to address each of the issues in the redesigned version (well, except the missing tweets).</p>
 
 <div style="text-align: center; overflow: auto; width: 100%; margin-bottom: 2em;">
-<span class='caption-wrapper img--before'><img class='caption' src='http://dceddia.github.io/images/posts/2014-12-02-redesign-twitter-app/bw-twitter-before.png' width='' height='' title='Before'><span class='caption-text'>Before</span></span>
-<span class='caption-wrapper img--after'><img class='caption' src='http://dceddia.github.io/images/posts/2014-12-02-redesign-twitter-app/bw-twitter-after.png' width='' height='' title='After'><span class='caption-text'>After</span></span>
+<span class='caption-wrapper img--before' style='width: ;'><img class='caption' src='http://dceddia.github.io/images/posts/2014-12-02-redesign-twitter-app/bw-twitter-before.png' title='Before'><span class='caption-text'>Before</span></span>
+<span class='caption-wrapper img--after' style='width: ;'><img class='caption' src='http://dceddia.github.io/images/posts/2014-12-02-redesign-twitter-app/bw-twitter-after.png' title='After'><span class='caption-text'>After</span></span>
 </div>
 
 
@@ -192,7 +236,7 @@ The site is live! Payments are working (verified with a small transaction).</p>
 
 <p>And a flash of inspriation came to me: I could design the page to look like a road sign! Like the kind you see on a highway telling you about the exit you&rsquo;re about to take by mistake. Like this one:</p>
 
-<p><span class='caption-wrapper center'><img class='caption' src='http://dceddia.github.io/images/posts/2014-11-06-garage-door-opener-part-2/highway-sign-making.jpg' width='' height='' title='You never really grasp the size of a road sign until you're standing on one.'><span class='caption-text'>You never really grasp the size of a road sign until you&rsquo;re standing on one.</span></span></p>
+<p><span class='caption-wrapper center' style='width: ;'><img class='caption' src='http://dceddia.github.io/images/posts/2014-11-06-garage-door-opener-part-2/highway-sign-making.jpg' title='You never really grasp the size of a road sign until you're standing on one.'><span class='caption-text'>You never really grasp the size of a road sign until you&rsquo;re standing on one.</span></span></p>
 
 <h3>&hellip;and in with the new</h3>
 
@@ -392,7 +436,7 @@ The site is live! Payments are working (verified with a small transaction).</p>
 
 <p>The saturation of a color defines how strong it looks. This only really makes sense <em>after</em> we&rsquo;ve already chosen a hue. It&rsquo;s a percentage of the hue. Here&rsquo;s the full saturation range for hue 0, also know as red:</p>
 
-<p><span class='caption-wrapper center'><img class='caption' src='http://dceddia.github.io/images/posts/2014-09-26-choosing-colors/red_hue_range.jpg' width='' height='' title='Range of Red Hues'><span class='caption-text'>Range of Red Hues</span></span></p>
+<p><span class='caption-wrapper center' style='width: ;'><img class='caption' src='http://dceddia.github.io/images/posts/2014-09-26-choosing-colors/red_hue_range.jpg' title='Range of Red Hues'><span class='caption-text'>Range of Red Hues</span></span></p>
 
 <p>So a high saturation means you get the full color (bright red, in this case). A lower saturation will give you a faint red. 0 saturation is white.</p>
 
@@ -402,7 +446,7 @@ The site is live! Payments are working (verified with a small transaction).</p>
 
 <p>These terms are used interchangably, and I like Brightness a little better because it&rsquo;s more descriptive. Fully bright means you see the full color. It&rsquo;s a percentage (like Saturation is). A value of 100% = solid hue (if saturation is at full, anyway). 0 brightness is black, which makes some sense if you think about it. If you turn the light off in your room, it&rsquo;s black, right? No brightness.</p>
 
-<p><span class='caption-wrapper center'><img class='caption' src='http://dceddia.github.io/images/posts/2014-09-26-choosing-colors/red_brightness_range.jpg' width='' height='' title='Range of Red Values (Brightnesses)'><span class='caption-text'>Range of Red Values (Brightnesses)</span></span></p>
+<p><span class='caption-wrapper center' style='width: ;'><img class='caption' src='http://dceddia.github.io/images/posts/2014-09-26-choosing-colors/red_brightness_range.jpg' title='Range of Red Values (Brightnesses)'><span class='caption-text'>Range of Red Values (Brightnesses)</span></span></p>
 
 <h3>Back to the color wheel</h3>
 
@@ -491,7 +535,7 @@ The site is live! Payments are working (verified with a small transaction).</p>
 
 <p>One of the reasons it&rsquo;s important to think about the font you choose is because fonts have <em>personalities</em>. They imply meaning just by virtue of the way they look, and some of them speak stronger than others. If you match the font&rsquo;s personality with the meaning you&rsquo;re trying to convey, you&rsquo;re golden. But if you do something like this, well&hellip;</p>
 
-<p><span class='caption-wrapper'><img class='caption' src='http://dceddia.github.io/images/posts/2014-09-11-how-to-choose-a-great-font/bedford-police-car.jpg' width='' height='' title='Comic Sans on a police car does not inspire confidence.'><span class='caption-text'>Comic Sans on a police car does not inspire confidence.</span></span></p>
+<p><span class='caption-wrapper' style='width: ;'><img class='caption' src='http://dceddia.github.io/images/posts/2014-09-11-how-to-choose-a-great-font/bedford-police-car.jpg' title='Comic Sans on a police car does not inspire confidence.'><span class='caption-text'>Comic Sans on a police car does not inspire confidence.</span></span></p>
 
 <p>So let&rsquo;s try to work through some examples of fonts that match their content.</p>
 
@@ -1503,7 +1547,7 @@ The site is live! Payments are working (verified with a small transaction).</p>
 
 <p>I hope this Carbon Copy walkthrough has been fun, and motivates you to try your hand at copying other designs out on the web. My goal is to provide you with design practice exercises that’ll increase your skill as well as mine.</p>
 
-<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#109;&#97;&#x69;&#x6c;&#116;&#111;&#58;&#100;&#x61;&#118;&#x65;&#x40;&#100;&#x65;&#115;&#x69;&#103;&#110;&#x77;&#105;&#116;&#x68;&#100;&#97;&#x76;&#x65;&#46;&#x63;&#111;&#x6d;">&#x64;&#97;&#118;&#x65;&#64;&#100;&#x65;&#115;&#105;&#x67;&#110;&#119;&#105;&#116;&#x68;&#100;&#x61;&#x76;&#101;&#46;&#x63;&#x6f;&#x6d;</a>). I&rsquo;d love to hear what you think.</p>
+<p>This is the first one of these I&rsquo;ve done, and I plan to do more, but I&rsquo;m looking for feedback &ndash; about the length, the number of images, the explanations, everything. Leave a comment below, or just send me an email (<a href="&#109;&#x61;&#105;&#108;&#116;&#x6f;&#58;&#100;&#x61;&#118;&#101;&#x40;&#100;&#101;&#115;&#x69;&#103;&#x6e;&#119;&#x69;&#116;&#104;&#100;&#97;&#x76;&#101;&#46;&#99;&#x6f;&#109;">&#100;&#x61;&#118;&#101;&#x40;&#100;&#x65;&#115;&#x69;&#103;&#110;&#x77;&#x69;&#116;&#x68;&#x64;&#x61;&#x76;&#101;&#46;&#99;&#x6f;&#109;</a>). I&rsquo;d love to hear what you think.</p>
 ]]></content>
   </entry>
   
